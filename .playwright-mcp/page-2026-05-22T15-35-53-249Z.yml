@@ -1,0 +1,2002 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "Saltar el contenido" [ref=e5] [cursor=pointer]:
+          - /url: "#root-app"
+          - generic [ref=e6]: Saltar el contenido
+        - link "Comentar sobre accesibilidad" [ref=e7] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/accesibilidad/feedback
+          - generic [ref=e8]: Comentar sobre accesibilidad
+        - link "Mercado Libre México - Donde comprar y vender de todo" [ref=e9] [cursor=pointer]:
+          - /url: //www.mercadolibre.com.mx
+      - search [ref=e11]:
+        - generic [ref=e12]: Ingresa lo que quieras encontrar
+        - combobox "Ingresa lo que quieras encontrar" [ref=e13]
+        - button "Buscar" [ref=e14] [cursor=pointer]:
+          - img "Buscar" [ref=e15]: 
+        - text: Tiendas oficiales
+      - link "MLM FSNB" [ref=e17] [cursor=pointer]:
+        - /url: https://www.mercadolibre.com.mx/ofertas#me.audience=unknown&me.bu=3&me.bu_line=26&me.component_id=banner_menu_web_ml&me.content_id=BM_MLM_FSNB_EVERGREEN&me.flow=-1&me.logic=campaigns&me.position=0
+        - img "MLM FSNB" [ref=e18]
+      - button " Enviar a CP 45080" [ref=e21] [cursor=pointer]:
+        - text: 
+        - generic [ref=e22]: Enviar a
+        - generic [ref=e23]: CP 45080
+      - list [ref=e26]:
+        - listitem [ref=e27]:
+          - button "Categorías" [ref=e28] [cursor=pointer]
+        - listitem [ref=e29]:
+          - link "Ofertas" [ref=e30] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.mx/ofertas#nav-header
+        - listitem [ref=e31]:
+          - link "Cupones" [ref=e32] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.mx/cupones#nav-header
+        - listitem [ref=e33]:
+          - link "Supermercado" [ref=e34] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.mx/supermercado#nav-header
+        - listitem [ref=e35]:
+          - link "Moda" [ref=e36] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.mx/c/ropa-bolsas-y-calzado#nav-header
+        - listitem [ref=e37]:
+          - link "Vender" [ref=e38] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.mx/syi/core/list#nav-header
+        - listitem [ref=e39]:
+          - link "Ayuda" [ref=e40] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.mx/ayuda#nav-header
+      - generic [ref=e41]:
+        - navigation "Menú de usuario" [ref=e42]:
+          - list [ref=e43]:
+            - listitem [ref=e44]:
+              - link "Crea tu cuenta" [ref=e45] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/registration?confirmation_url=https%3A%2F%2Fwww.mercadolibre.com.mx%2F#nav-header
+            - listitem [ref=e46]:
+              - link "Ingresa" [ref=e47] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com/jms/mlm/lgz/login?platform_id=ML&go=https%3A%2F%2Fwww.mercadolibre.com.mx%2F&loginType=explicit&client_id=6280072776285528#nav-header
+            - listitem [ref=e48]:
+              - link "Mis compras" [ref=e49] [cursor=pointer]:
+                - /url: https://myaccount.mercadolibre.com.mx/purchases/list#nav-header
+        - link "0 productos en tu carrito" [ref=e50] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/gz/cart/v2
+          - generic [ref=e51]: 
+          - generic [ref=e52]: 0 productos en tu carrito
+  - main [ref=e53]:
+    - generic [ref=e57]:
+      - generic [ref=e58]:
+        - button "Anterior" [ref=e59] [cursor=pointer]:
+          - img [ref=e60]
+        - generic [ref=e63]:
+          - group [ref=e64]:
+            - link [ref=e65] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.mx/_Container_ao-technology-estado-excelente-comercial#c_container_id=MLM1557917-1&c_id=%2Fsplinter%2Fmainslideritem&c_element_order=7&c_campaign=container-mlm-1557917-ms-reacondicionados-ia&c_label=%2Fsplinter%2Fmainslideritem&c_uid=e8625b91-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e8625b91-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=1&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+              - img [ref=e68]
+          - group "1 de 7" [ref=e69]:
+            - link "HOT SALE, HASTA 60% OFF" [ref=e70] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.mx/_Container_ofertas-may-jun-merch-multivertical-general-riu-skill?forceContainer=true#c_container_id=MLM1632180-1&c_id=%2Fsplinter%2Fmainslideritem&c_element_order=1&c_campaign=container-mlm-1632180-ms-previa-ia&c_label=%2Fsplinter%2Fmainslideritem&c_uid=e8620d70-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e8620d70-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=1&DEAL_ID=MLM53402&S=landingHubhot-sale&V=0&T=MainSliderItem-normal&L=CONTAINER_MLM1632180_MS_PREVIA_IA_&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+              - img "HOT SALE, HASTA 60% OFF" [ref=e73]
+          - group [ref=e74]:
+            - link [ref=e75] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.mx/_Container_skin-glow#c_container_id=MLM1357497-1&c_id=%2Fsplinter%2Fmainslideritem&c_element_order=2&c_campaign=container-mlm-1357497-ms-ads-nivea&c_label=%2Fsplinter%2Fmainslideritem&c_uid=e8623480-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e8623480-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=1&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+              - img [ref=e78]
+          - group [ref=e79]:
+            - link [ref=e80] [cursor=pointer]:
+              - /url: https://www.mercadolibre.com.mx/c/deportes-y-fitness#c_container_id=not_apply&c_id=%2Fsplinter%2Fmainslideritem&c_element_order=3&c_campaign=flagship-deportes-y-fitnessmlm-1276-ms-sports-ia&c_label=%2Fsplinter%2Fmainslideritem&c_uid=e860ade0-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e860ade0-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=1&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+              - img [ref=e83]
+          - group [ref=e84]:
+            - link [ref=e85] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.mx/_Container_emma-carrusel-2026#c_container_id=MLM1599906-1&c_id=%2Fsplinter%2Fmainslideritem&c_element_order=4&c_campaign=container-mlm-1599906-ms-emma&c_label=%2Fsplinter%2Fmainslideritem&c_uid=e8625b90-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e8625b90-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=1&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+              - img [ref=e88]
+          - group [ref=e89]:
+            - link [ref=e90] [cursor=pointer]:
+              - /url: https://www.mercadolibre.com.mx/supermercado/market#c_container_id=not_apply&c_id=%2Fsplinter%2Fmainslideritem&c_element_order=5&c_campaign=eshop-super-ms-super&c_label=%2Fsplinter%2Fmainslideritem&c_uid=e860ade1-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e860ade1-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=1&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+              - img [ref=e93]
+          - group [ref=e94]:
+            - link [ref=e95] [cursor=pointer]:
+              - /url: https://www.mercadolibre.com.mx/ofertas/fan-zone#c_container_id=not_apply&c_id=%2Fsplinter%2Fmainslideritem&c_element_order=6&c_campaign=flagship-fan-zone-ms-fan-zone-ia&c_label=%2Fsplinter%2Fmainslideritem&c_uid=e860ade2-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e860ade2-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=1&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+              - img [ref=e98]
+          - group [ref=e99]:
+            - link [ref=e100] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.mx/_Container_ao-technology-estado-excelente-comercial#c_container_id=MLM1557917-1&c_id=%2Fsplinter%2Fmainslideritem&c_element_order=7&c_campaign=container-mlm-1557917-ms-reacondicionados-ia&c_label=%2Fsplinter%2Fmainslideritem&c_uid=e8625b91-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e8625b91-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=1&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+              - img [ref=e103]
+          - group [ref=e104]:
+            - link [ref=e105] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.mx/_Container_ofertas-may-jun-merch-multivertical-general-riu-skill?forceContainer=true#c_container_id=MLM1632180-1&c_id=%2Fsplinter%2Fmainslideritem&c_element_order=1&c_campaign=container-mlm-1632180-ms-previa-ia&c_label=%2Fsplinter%2Fmainslideritem&c_uid=e8620d70-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e8620d70-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=1&DEAL_ID=MLM53402&S=landingHubhot-sale&V=0&T=MainSliderItem-normal&L=CONTAINER_MLM1632180_MS_PREVIA_IA_&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+              - img [ref=e108]
+        - button "Siguiente" [ref=e109] [cursor=pointer]:
+          - img [ref=e110]
+      - list [ref=e112]:
+        - listitem [ref=e113]:
+          - button [ref=e114]:
+            - generic [ref=e115]: Página 1
+        - listitem [ref=e116]:
+          - button [ref=e117]:
+            - generic [ref=e118]: Página 2
+        - listitem [ref=e119]:
+          - button [ref=e120]:
+            - generic [ref=e121]: Página 3
+        - listitem [ref=e122]:
+          - button [ref=e123]:
+            - generic [ref=e124]: Página 4
+        - listitem [ref=e125]:
+          - button [ref=e126]:
+            - generic [ref=e127]: Página 5
+        - listitem [ref=e128]:
+          - button [ref=e129]:
+            - generic [ref=e130]: Página 6
+        - listitem [ref=e131]:
+          - button [ref=e132]:
+            - generic [ref=e133]: Página 7
+    - article [ref=e136]:
+      - generic [ref=e141]:
+        - group "1 de 7" [ref=e142]:
+          - link "Other_ODD_IA_" [ref=e144] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.mx/ofertas?promotion_type=deal_of_the_day#c_container_id=MLM779363-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=1&c_campaign=other-odd-ia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e860ade3-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e860ade3-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=2&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+            - img "Other_ODD_IA_" [ref=e148]
+        - group "2 de 7" [ref=e149]:
+          - link "DESDE CHINA" [ref=e151] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.mx/importados/compra-internacional#c_container_id=not_apply&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=2&c_campaign=eshop-internacional-cbt-ids-ia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e860ade4-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e860ade4-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=2&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+            - img "DESDE CHINA" [ref=e155]
+        - group "3 de 7" [ref=e156]:
+          - link "DE 500 A 1000" [ref=e158] [cursor=pointer]:
+            - /url: https://listado.mercadolibre.com.mx/_PriceRange_500MXN-1000MXN_Container_ofertas-may-jun-merch-multivertical-general-riu-skill_NoIndex_True?forceContainer=true#c_container_id=MLM1632180-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=3&c_campaign=container-mlm-1632180-500-a-1000&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e8625b92-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e8625b92-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=2&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+            - img "DE 500 A 1000" [ref=e162]
+        - group "4 de 7" [ref=e163]:
+          - link "Container_MLM1332307_full_IA_" [ref=e165] [cursor=pointer]:
+            - /url: https://listado.mercadolibre.com.mx/_Container_full-week-multivertical-general-merch#c_container_id=MLM1332307-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=4&c_campaign=container-mlm-1332307-full-ia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e8625b93-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e8625b93-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=2&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+            - img "Container_MLM1332307_full_IA_" [ref=e169]
+        - group "5 de 7" [ref=e170]:
+          - link "REMATES" [ref=e172] [cursor=pointer]:
+            - /url: https://listado.mercadolibre.com.mx/_Container_ofertas-may-jun-merch-multivertical-markdown-ai-305019003#c_container_id=MLM1628787-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=5&c_campaign=container-mlm-1628787-remates-ia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e8625b94-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e8625b94-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=2&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+            - img "REMATES" [ref=e176]
+        - group "6 de 7" [ref=e177]:
+          - link "MEJORES PRECIOS" [ref=e179] [cursor=pointer]:
+            - /url: https://listado.mercadolibre.com.mx/_Container_ofertas-may-jun-merch-multivertical-bpc-skill#c_container_id=MLM1630573-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=6&c_campaign=container-mlm-1630573-mejores-precios-ia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e8625b95-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e8625b95-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=2&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+            - img "MEJORES PRECIOS" [ref=e183]
+        - group "7 de 7" [ref=e184]:
+          - link "lo más deseado" [ref=e186] [cursor=pointer]:
+            - /url: https://listado.mercadolibre.com.mx/_Discount_30-100_Installments_NoInterest_Container_ofertas-may-jun-merch-multivertical-cheaper-skill?forceContainer=true#c_container_id=MLM1630574-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=7&c_campaign=container-mlm-1630574-lo-mas-deseado-ia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e8625b96-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e8625b96-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=2&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+            - img "lo más deseado" [ref=e190]
+    - article [ref=e197]:
+      - generic [ref=e200]:
+        - button "Anterior" [disabled] [ref=e201]:
+          - img [ref=e202]
+        - generic [ref=e205]:
+          - group "1 de 8" [ref=e206]:
+            - link [ref=e208] [cursor=pointer]:
+              - /url: https://www.mercadolibre.com.mx/ofertas/melimas?isBottomSheet=true&view_mode=bottom_sheet#c_container_id=not_apply&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=1&c_campaign=cupon-melimas&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e860ade5-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e860ade5-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=4&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+          - group "2 de 8" [ref=e212]:
+            - link [ref=e214] [cursor=pointer]:
+              - /url: https://www.mercadolibre.com.mx/ofertas/tarjeta-mercado-pago-visa?isBottomSheet=true&view_mode=bottom_sheet#c_container_id=not_apply&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=2&c_campaign=cupon-tcmp&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e860ade6-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e860ade6-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=4&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+          - group "3 de 8" [ref=e218]:
+            - link [ref=e220] [cursor=pointer]:
+              - /url: https://www.mercadolibre.com.mx/ofertas/meses-sin-tarjeta?isBottomSheet=true&view_mode=bottom_sheet#c_container_id=not_apply&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=3&c_campaign=cupon-mst&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e860ade7-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e860ade7-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=4&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+          - group "4 de 8" [ref=e224]:
+            - link [ref=e226] [cursor=pointer]:
+              - /url: https://www.mercadolibre.com.mx/ofertas/bbva?isBottomSheet=true&view_mode=bottom_sheet#c_container_id=not_apply&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=4&c_campaign=cupon-bbva&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e860ade8-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e860ade8-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=4&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+          - group "5 de 8" [ref=e230]:
+            - link "CUPON SANTANDER" [ref=e232] [cursor=pointer]:
+              - /url: https://www.mercadolibre.com.mx/ofertas/santander?isBottomSheet=true&view_mode=bottom_sheet#c_container_id=not_apply&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=5&c_campaign=cupon-santander&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e860ade9-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e860ade9-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=4&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+              - img "CUPON SANTANDER" [ref=e236]
+          - group "6 de 8" [ref=e237]:
+            - link "CUPON HSBC" [ref=e239] [cursor=pointer]:
+              - /url: https://www.mercadolibre.com.mx/ofertas/hsbc?isBottomSheet=true&view_mode=bottom_sheet#c_container_id=not_apply&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=6&c_campaign=cupon-hsbc&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e860fc00-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e860fc00-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=4&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+              - img "CUPON HSBC" [ref=e243]
+          - group "7 de 8" [ref=e244]:
+            - link [ref=e246] [cursor=pointer]:
+              - /url: https://www.mercadolibre.com.mx/ofertas/inbursa?isBottomSheet=true&view_mode=bottom_sheet#c_container_id=not_apply&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=7&c_campaign=cupon-inbursa&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e860fc01-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e860fc01-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=4&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+          - group [ref=e250]:
+            - link [ref=e252] [cursor=pointer]:
+              - /url: https://www.mercadolibre.com.mx/ofertas/afirme?isBottomSheet=true&view_mode=bottom_sheet#c_container_id=not_apply&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=8&c_campaign=cupon-afirme&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e860fc02-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e860fc02-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=4&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+        - button "Siguiente" [ref=e256] [cursor=pointer]:
+          - img [ref=e257]
+    - article [ref=e261]:
+      - heading "Categorías con descuento" [level=2] [ref=e262]
+      - generic [ref=e267]:
+        - group "1 de 6" [ref=e268]:
+          - link "TENIS TENIS" [ref=e270] [cursor=pointer]:
+            - /url: https://listado.mercadolibre.com.mx/_Container_ofertas-may-jun-comercial-fashion-tenis#c_container_id=MLM1611576-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=1&c_campaign=container-mlm-1611576-tenis-ia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e8625b97-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e8625b97-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=5&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+            - generic [ref=e272]:
+              - img "TENIS" [ref=e274]
+              - generic [ref=e275]: TENIS
+        - group "2 de 6" [ref=e276]:
+          - link "CLIMATIZACIÓN CLIMATIZACIÓN" [ref=e278] [cursor=pointer]:
+            - /url: https://listado.mercadolibre.com.mx/_Container_ao-climatizacion-v2#c_container_id=MLM1068931-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=2&c_campaign=container-mlm-1068931-climatizacion-ia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e8625b98-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e8625b98-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=5&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+            - generic [ref=e280]:
+              - img "CLIMATIZACIÓN" [ref=e282]
+              - generic [ref=e283]: CLIMATIZACIÓN
+        - group "3 de 6" [ref=e284]:
+          - link "LLANTAS LLANTAS" [ref=e286] [cursor=pointer]:
+            - /url: https://listado.mercadolibre.com.mx/_Container_ofertas-may-jun-comercial-vehicle-parts-and-accessories-to25-304671003?forceContainer=true#c_container_id=MLM1627038-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=3&c_campaign=container-mlm-1627038-llantas-ia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e8625b99-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e8625b99-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=5&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+            - generic [ref=e288]:
+              - img "LLANTAS" [ref=e290]
+              - generic [ref=e291]: LLANTAS
+        - group "4 de 6" [ref=e292]:
+          - link "SUPLEMENTOS SUPLEMENTOS" [ref=e294] [cursor=pointer]:
+            - /url: https://listado.mercadolibre.com.mx/_Container_suplementosao#c_container_id=MLM1250956-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=4&c_campaign=container-mlm-1250956-suplementos-ia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e8625b9a-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e8625b9a-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=5&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+            - generic [ref=e296]:
+              - img "SUPLEMENTOS" [ref=e298]
+              - generic [ref=e299]: SUPLEMENTOS
+        - group "5 de 6" [ref=e300]:
+          - link "PERFUMES PERFUMES" [ref=e302] [cursor=pointer]:
+            - /url: https://listado.mercadolibre.com.mx/_Container_ofertas-may-jun-comercial-beauty-perfumes?forceContainer=true#c_container_id=MLM1617570-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=5&c_campaign=container-mlm-1617570-perfumes-ia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e86282a0-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e86282a0-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=5&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+            - generic [ref=e304]:
+              - img "PERFUMES" [ref=e306]
+              - generic [ref=e307]: PERFUMES
+        - group "6 de 6" [ref=e308]:
+          - link "AUDÍFONOS Y SMARTWATCHES AUDÍFONOS Y SMARTWATCHES" [ref=e310] [cursor=pointer]:
+            - /url: https://listado.mercadolibre.com.mx/_Container_comercial-technology-audifonos-smartwatches#c_container_id=MLM1617952-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=6&c_campaign=container-mlm-1617952-audifonos-smartwatches-ia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e86282a1-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e86282a1-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=5&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+            - generic [ref=e312]:
+              - img "AUDÍFONOS Y SMARTWATCHES" [ref=e314]
+              - generic [ref=e315]: AUDÍFONOS Y SMARTWATCHES
+    - link [ref=e319] [cursor=pointer]:
+      - /url: https://mercadolibre.com/#c_container_id=not_apply&c_id=%2Fsplinter%2Fheader&c_element_order=1&c_campaign=tracking&c_label=%2Fsplinter%2Fheader&c_uid=e860fc03-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e860fc03-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=6&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+    - generic [ref=e326]:
+      - link "CELULARES" [ref=e328] [cursor=pointer]:
+        - /url: https://listado.mercadolibre.com.mx/_Container_ao-renueva-tu-cel-lo-mas-buscado#c_container_id=MLM1059162-1&c_id=%2Fsplinter%2Fspecial-withoutlabel&c_element_order=1&c_campaign=container-mlm-1059162-celulares-ia&c_label=%2Fsplinter%2Fspecial-withoutlabel&c_uid=e86282a2-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e86282a2-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=7&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+        - img "CELULARES" [ref=e332]
+      - link "MODA" [ref=e334] [cursor=pointer]:
+        - /url: https://listado.mercadolibre.com.mx/_Container_ofertas-may-jun-comercial-fashion-moda-general?forceContainer=true#c_container_id=MLM1611639-1&c_id=%2Fsplinter%2Fspecial-withoutlabel&c_element_order=2&c_campaign=container-mlm-1611639-modaia-praia&c_label=%2Fsplinter%2Fspecial-withoutlabel&c_uid=e862a9b0-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862a9b0-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=7&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+        - img "MODA" [ref=e338]
+      - link "HOGAR" [ref=e340] [cursor=pointer]:
+        - /url: https://listado.mercadolibre.com.mx/_Container_ofertas-may-jun-comercial-furnishing-and-houseware-home?forceContainer=true#c_container_id=MLM1618072-1&c_id=%2Fsplinter%2Fspecial-withoutlabel&c_element_order=3&c_campaign=container-mlm-1618072-hogar&c_label=%2Fsplinter%2Fspecial-withoutlabel&c_uid=e862a9b1-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862a9b1-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=7&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+        - img "HOGAR" [ref=e344]
+      - link "TV Y AUDIO" [ref=e346] [cursor=pointer]:
+        - /url: https://listado.mercadolibre.com.mx/_Container_ao-eav-main-slider-v2#c_container_id=MLM1578368-1&c_id=%2Fsplinter%2Fspecial-withoutlabel&c_element_order=4&c_campaign=container-mlm-1578368-tv-audio&c_label=%2Fsplinter%2Fspecial-withoutlabel&c_uid=e862a9b2-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862a9b2-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=7&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+        - img "TV Y AUDIO" [ref=e350]
+    - generic [ref=e355]:
+      - link "BELLEZA" [ref=e357] [cursor=pointer]:
+        - /url: https://listado.mercadolibre.com.mx/_Container_ofertas-may-jun-comercial-beauty-beauty?forceContainer=true#c_container_id=MLM1617618-1&c_id=%2Fsplinter%2Fcardpostersitem&c_element_order=1&c_campaign=container-mlm-1617618-belleza-ia&c_label=%2Fsplinter%2Fcardpostersitem&c_uid=e862a9b3-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862a9b3-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=8&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+        - img "BELLEZA" [ref=e361]
+      - link "GAMING" [ref=e363] [cursor=pointer]:
+        - /url: https://listado.mercadolibre.com.mx/_Container_ao-gaming-ms#c_container_id=MLM1110660-1&c_id=%2Fsplinter%2Fcardpostersitem&c_element_order=2&c_campaign=container-mlm-1110660-gaming-ia&c_label=%2Fsplinter%2Fcardpostersitem&c_uid=e862a9b4-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862a9b4-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=8&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+        - img "GAMING" [ref=e367]
+      - link "CÓMPUTO" [ref=e369] [cursor=pointer]:
+        - /url: https://listado.mercadolibre.com.mx/_Container_ao-technology-main-slider-computo-comercial#c_container_id=MLM1446010-1&c_id=%2Fsplinter%2Fcardpostersitem&c_element_order=3&c_campaign=container-mlm-1446010-computo-ia&c_label=%2Fsplinter%2Fcardpostersitem&c_uid=e862a9b5-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862a9b5-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=8&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+        - img "CÓMPUTO" [ref=e373]
+      - link "ACC PARA VEHÍCULOS" [ref=e375] [cursor=pointer]:
+        - /url: https://listado.mercadolibre.com.mx/_Container_ofertas-may-jun-comercial-vehicle-parts-and-accessories-acc?forceContainer=true#c_container_id=MLM1621376-1&c_id=%2Fsplinter%2Fcardpostersitem&c_element_order=4&c_campaign=container-mlm-1621376-acc-vehiculos&c_label=%2Fsplinter%2Fcardpostersitem&c_uid=e862a9b6-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862a9b6-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=8&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+        - img "ACC PARA VEHÍCULOS" [ref=e379]
+    - article [ref=e382]:
+      - generic [ref=e385]:
+        - button "Anterior" [disabled] [ref=e386]:
+          - img [ref=e387]
+        - generic [ref=e390]:
+          - group "1 de 9" [ref=e391]:
+            - link "HERRAMIENTAS HERRAMIENTAS" [ref=e393] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.mx/_Container_ao-construction-industry-herramientas-comercial#c_container_id=MLM1467226-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=1&c_campaign=container-mlm-1467226-herramientasia-praia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e862a9b7-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862a9b7-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=9&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+              - generic [ref=e395]:
+                - img "HERRAMIENTAS" [ref=e397]
+                - generic [ref=e398]: HERRAMIENTAS
+          - group "2 de 9" [ref=e399]:
+            - link "DEPORTES DEPORTES" [ref=e401] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.mx/_Container_ofertas-may-jun-comercial-sports-sports?forceContainer=true#c_container_id=MLM1621189-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=2&c_campaign=container-mlm-1633409-deportesia-praia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e862a9b8-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862a9b8-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=9&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+              - generic [ref=e403]:
+                - img "DEPORTES" [ref=e405]
+                - generic [ref=e406]: DEPORTES
+          - group "3 de 9" [ref=e407]:
+            - link "JUGUETES JUGUETES" [ref=e409] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.mx/_Container_ofertas-may-jun-comercial-t-and-b-juguetes?forceContainer=true#c_container_id=MLM1615236-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=3&c_campaign=container-mlm-1615236-juguetesia-praia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e862a9b9-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862a9b9-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=9&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+              - generic [ref=e411]:
+                - img "JUGUETES" [ref=e413]
+                - generic [ref=e414]: JUGUETES
+          - group "4 de 9" [ref=e415]:
+            - link "ELECTRODOMÉSTICOS ELECTRODOMÉSTICOS" [ref=e417] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.mx/_Container_ao-flagship-electro-mainslider-1#c_container_id=MLM1135178-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=4&c_campaign=container-mlm-1135178-electrodomesticosia-praia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e862a9ba-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862a9ba-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=9&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+              - generic [ref=e419]:
+                - img "ELECTRODOMÉSTICOS" [ref=e421]
+                - generic [ref=e422]: ELECTRODOMÉSTICOS
+          - group "5 de 9" [ref=e423]:
+            - link "CALZADO CALZADO" [ref=e425] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.mx/_Container_ofertas-may-jun-comercial-fashion-calzado?forceContainer=true#c_container_id=MLM1611649-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=5&c_campaign=container-mlm-1611649-calzadoia-praia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e862a9bb-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862a9bb-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=9&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+              - generic [ref=e427]:
+                - img "CALZADO" [ref=e429]
+                - generic [ref=e430]: CALZADO
+          - group "6 de 9" [ref=e431]:
+            - link "ENVÍOS RÁPIDOS DESDE USA ENVÍOS RÁPIDOS DESDE USA" [ref=e433] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.mx/_Container_cbt-fc-us#c_container_id=MLM1277959-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=6&c_campaign=container-mlm-1277959-desde-usaia-praia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e862a9bc-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862a9bc-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=9&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+              - generic [ref=e435]:
+                - img "ENVÍOS RÁPIDOS DESDE USA" [ref=e437]
+                - generic [ref=e438]: ENVÍOS RÁPIDOS DESDE USA
+          - group "7 de 9" [ref=e439]:
+            - link "SALUD SALUD" [ref=e441] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.mx/_Container_ofertas-may-jun-comercial-health-salud?forceContainer=true#c_container_id=MLM1618144-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=7&c_campaign=container-mlm-1618144-saludia-praia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e862a9bd-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862a9bd-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=9&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+              - generic [ref=e443]:
+                - img "SALUD" [ref=e445]
+                - generic [ref=e446]: SALUD
+          - group [ref=e447]:
+            - link [ref=e449] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.mx/_Container_ofertas-may-jun-comercial-t-and-b-bebes-302627003?forceContainer=true#c_container_id=MLM1617506-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=8&c_campaign=container-mlm-1617506-bebesia-praia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e862d0c0-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862d0c0-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=9&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+              - generic [ref=e451]:
+                - img [ref=e453]
+                - generic [ref=e454]: BEBÉS
+          - group [ref=e455]:
+            - link [ref=e457] [cursor=pointer]:
+              - /url: https://listado.mercadolibre.com.mx/_Container_ofertas-may-jun-comercial-cpg-ms-mascotas?forceContainer=true#c_container_id=MLM1619728-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=9&c_campaign=container-mlm-1619728-mascotasia-praia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e862d0c1-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862d0c1-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=9&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+              - generic [ref=e459]:
+                - img [ref=e461]
+                - generic [ref=e462]: MASCOTAS
+        - button "Siguiente" [ref=e463] [cursor=pointer]:
+          - img [ref=e464]
+    - generic [ref=e468]:
+      - heading "Grandes marcas, precios más bajos" [level=2] [ref=e470]
+      - generic [ref=e472]:
+        - link "ADS SPONSORS FARMAPIEL" [ref=e474] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/_Container_hs-farmapiel#c_container_id=MLM1626223-1&c_id=%2Fsplinter%2Fspecial-withoutlabel&c_element_order=1&c_campaign=container-mlm-1626223-sponsor-farmapiel&c_label=%2Fsplinter%2Fspecial-withoutlabel&c_uid=e862d0c2-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862d0c2-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=11&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+          - img "ADS SPONSORS FARMAPIEL" [ref=e478]
+        - link "ADS SPONSORS MAC" [ref=e480] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/_Container_mac-cosmetics-lipsticks#c_container_id=MLM1561008-1&c_id=%2Fsplinter%2Fspecial-withoutlabel&c_element_order=2&c_campaign=container-mlm-1561008-sponsor-mac&c_label=%2Fsplinter%2Fspecial-withoutlabel&c_uid=e862d0c3-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862d0c3-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=11&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+          - img "ADS SPONSORS MAC" [ref=e484]
+        - link "ADS SPONSORS LRP" [ref=e486] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/_Container_larocheposay-beauty-aon#c_container_id=MLM1239945-1&c_id=%2Fsplinter%2Fspecial-withoutlabel&c_element_order=3&c_campaign=container-mlm-1239945-sponsor-lrp&c_label=%2Fsplinter%2Fspecial-withoutlabel&c_uid=e862d0c4-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862d0c4-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=11&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+          - img "ADS SPONSORS LRP" [ref=e490]
+        - link "ADS SPONSORS MAYBELLINE" [ref=e492] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/_Container_maybelline-new-york#c_container_id=MLM1239328-1&c_id=%2Fsplinter%2Fspecial-withoutlabel&c_element_order=4&c_campaign=container-mlm-1239328-sponsor-maybelline&c_label=%2Fsplinter%2Fspecial-withoutlabel&c_uid=e862d0c5-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862d0c5-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=11&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+          - img "ADS SPONSORS MAYBELLINE" [ref=e496]
+    - generic [ref=e500]:
+      - generic [ref=e501]:
+        - heading "Tecnología, hasta 40% off" [level=2] [ref=e502]
+        - link "Ver más Tecnología, hasta 40% off" [ref=e503] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/_Container_ao-mix-cewl-v4#c_container_id=MLM1165097-1&c_element_id=e862d0c6-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&DEAL_ID=MLM1165097-1&S=landingHubhot-sale&V=51&T=CarouselDynamic-home&L=VER-MAS&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+          - text: Ver más
+          - generic [ref=e504]: Tecnología, hasta 40% off
+      - generic [ref=e506]:
+        - button "Anterior" [disabled] [ref=e507]:
+          - img [ref=e508]
+        - generic [ref=e511]:
+          - group "1 de 20" [ref=e512]:
+            - generic [ref=e513]:
+              - img [ref=e516]
+              - generic [ref=e517]:
+                - generic [ref=e518]: MÁS VENDIDO
+                - heading "Licuadora Ninja Profesional Plus Bn701laa 1400w Tritura Hielo Al Instante Capacidad De 2.1l Para Toda La Familia 3 Programas Auto-iq Smoothies, Helados Y Frozen Negro" [level=3] [ref=e519]:
+                  - link "Licuadora Ninja Profesional Plus Bn701laa 1400w Tritura Hielo Al Instante Capacidad De 2.1l Para Toda La Familia 3 Programas Auto-iq Smoothies, Helados Y Frozen Negro" [ref=e520] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.mx/licuadora-ninja-profesional-plus-bn701laa-1400w-tritura-hielo-al-instante-capacidad-de-21l-para-toda-la-familia-3-programas-auto-iq-smoothies-helados-y-frozen-negro/p/MLM52768030?pdp_filters=deal%3AMLM1165097-3#polycard_client=splinter&c_element_order=1&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=tecnologia-hasta-40-off&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=6f3a1e96-7a65-3947-a714-822a15acadbd&V=1&c_campaign=tecnologia-hasta-40-off&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=1&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM1165097-1&c_global_position=13&c_element_id=6f3a1e96-7a65-3947-a714-822a15acadbd&wid=MLM3842252226&sid=splinter
+                - generic [ref=e521]:
+                  - 'img "Antes: 2499 pesos mexicanos" [ref=e522]':
+                    - generic [ref=e523]: $
+                    - generic [ref=e524]: 2,499
+                  - generic [ref=e525]:
+                    - 'img "Ahora: 1694 pesos mexicanos" [ref=e526]':
+                      - generic [ref=e527]: $
+                      - generic [ref=e528]: 1,694
+                    - generic [ref=e529]: 32% OFF
+                  - generic [ref=e530]:
+                    - text: 6 meses sin intereses de
+                    - img "282 pesos mexicanos con 49 centavos" [ref=e531]:
+                      - generic [ref=e533]: $
+                      - generic [ref=e534]: "282"
+                      - generic [ref=e535]: .
+                      - generic [ref=e536]: "49"
+                - generic [ref=e537]:
+                  - text: Llega gratis hoy
+                  - img "Enviado por FULL" [ref=e538]
+                  - text: por ser tu primera compra
+          - group "2 de 20" [ref=e539]:
+            - generic [ref=e540]:
+              - img [ref=e543]
+              - generic [ref=e544]:
+                - generic [ref=e545]: MÁS VENDIDO
+                - heading "Consola Nintendo Switch 2 Negro" [level=3] [ref=e546]:
+                  - link "Consola Nintendo Switch 2 Negro" [ref=e547] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.mx/consola-nintendo-switch-2/p/MLM48921521?pdp_filters=deal%3AMLM1165097-3#polycard_client=splinter&c_element_order=2&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=tecnologia-hasta-40-off&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=8ed79c7f-ad2f-3b03-9058-358ecbccb360&V=2&c_campaign=tecnologia-hasta-40-off&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=2&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM1165097-1&c_global_position=13&c_element_id=8ed79c7f-ad2f-3b03-9058-358ecbccb360&wid=MLM3659202674&sid=splinter
+                - generic [ref=e548]:
+                  - 'img "Antes: 13599 pesos mexicanos" [ref=e549]':
+                    - generic [ref=e550]: $
+                    - generic [ref=e551]: 13,599
+                  - generic [ref=e552]:
+                    - 'img "Ahora: 9297 pesos mexicanos" [ref=e553]':
+                      - generic [ref=e554]: $
+                      - generic [ref=e555]: 9,297
+                    - generic [ref=e556]: 31% OFF
+                  - generic [ref=e557]:
+                    - text: 12 meses sin intereses de
+                    - img "774 pesos mexicanos con 83 centavos" [ref=e558]:
+                      - generic [ref=e560]: $
+                      - generic [ref=e561]: "774"
+                      - generic [ref=e562]: .
+                      - generic [ref=e563]: "83"
+                - generic [ref=e564]:
+                  - text: Llega gratis hoy
+                  - img "Enviado por FULL" [ref=e565]
+                  - text: por ser tu primera compra
+          - group "3 de 20" [ref=e566]:
+            - generic [ref=e567]:
+              - img [ref=e570]
+              - generic [ref=e571]:
+                - generic [ref=e572]: MÁS VENDIDO
+                - heading "Ninja Licuadora Profesional 1000w Bl610 Jarra Xl De 2.1l Tritura Hielo, Salsas Y Semillas Para Hacer Frappes Y Smoothies Para Toda La Familia Color Negro Negro/plata" [level=3] [ref=e573]:
+                  - link "Ninja Licuadora Profesional 1000w Bl610 Jarra Xl De 2.1l Tritura Hielo, Salsas Y Semillas Para Hacer Frappes Y Smoothies Para Toda La Familia Color Negro Negro/plata" [ref=e574] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.mx/ninja-licuadora-profesional-1000w-bl610-jarra-xl-de-21l-tritura-hielo-salsas-y-semillas-para-hacer-frappes-y-smoothies-para-toda-la-familia-color-negro/p/MLM9439194?pdp_filters=deal%3AMLM1165097-3#polycard_client=splinter&c_element_order=3&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=tecnologia-hasta-40-off&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=4220de3d-7637-3aab-8f2a-02785cc2e685&V=3&c_campaign=tecnologia-hasta-40-off&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=3&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM1165097-1&c_global_position=13&c_element_id=4220de3d-7637-3aab-8f2a-02785cc2e685&wid=MLM3759364290&sid=splinter
+                - generic [ref=e575]:
+                  - 'img "Antes: 2499 pesos mexicanos" [ref=e576]':
+                    - generic [ref=e577]: $
+                    - generic [ref=e578]: 2,499
+                  - generic [ref=e579]:
+                    - 'img "Ahora: 1434 pesos mexicanos" [ref=e580]':
+                      - generic [ref=e581]: $
+                      - generic [ref=e582]: 1,434
+                    - generic [ref=e583]: 42% OFF
+                  - generic [ref=e584]:
+                    - text: 6 meses sin intereses de
+                    - img "239 pesos mexicanos con 16 centavos" [ref=e585]:
+                      - generic [ref=e587]: $
+                      - generic [ref=e588]: "239"
+                      - generic [ref=e589]: .
+                      - generic [ref=e590]: "16"
+                - generic [ref=e591]:
+                  - text: Llega gratis hoy
+                  - img "Enviado por FULL" [ref=e592]
+                  - text: por ser tu primera compra
+          - group "4 de 20" [ref=e593]:
+            - generic [ref=e594]:
+              - img [ref=e597]
+              - generic [ref=e598]:
+                - generic [ref=e599]:
+                  - img [ref=e600]
+                  - text: OFERTA IMPERDIBLE
+                - heading "Pantalla Smart Tv Aiwa Roku 50 Pulgadas Qled 4k Ultra Hd" [level=3] [ref=e601]:
+                  - link "Pantalla Smart Tv Aiwa Roku 50 Pulgadas Qled 4k Ultra Hd" [ref=e602] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.mx/pantalla-smart-tv-aiwa-roku-50-pulgadas-qled-4k-ultra-hd/p/MLM63172085?pdp_filters=deal%3AMLM1165097-3#polycard_client=splinter&c_element_order=4&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=tecnologia-hasta-40-off&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=304608d0-a4e4-3f42-94b3-9d6e0d09882d&V=4&c_campaign=tecnologia-hasta-40-off&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=4&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM1165097-1&c_global_position=13&c_element_id=304608d0-a4e4-3f42-94b3-9d6e0d09882d&wid=MLM4568331450&sid=splinter
+                - generic [ref=e603]:
+                  - 'img "Antes: 8212 pesos mexicanos" [ref=e604]':
+                    - generic [ref=e605]: $
+                    - generic [ref=e606]: 8,212
+                  - generic [ref=e607]:
+                    - 'img "Ahora: 4989 pesos mexicanos" [ref=e608]':
+                      - generic [ref=e609]: $
+                      - generic [ref=e610]: 4,989
+                    - generic [ref=e611]: 39% OFF
+                  - generic [ref=e612]:
+                    - text: 15 meses sin intereses de
+                    - img "332 pesos mexicanos con 66 centavos" [ref=e613]:
+                      - generic [ref=e615]: $
+                      - generic [ref=e616]: "332"
+                      - generic [ref=e617]: .
+                      - generic [ref=e618]: "66"
+                - generic [ref=e619]:
+                  - text: Llega gratis mañana sábado
+                  - img "Enviado por FULL" [ref=e620]
+                  - text: por ser tu primera compra
+          - group "5 de 20" [ref=e621]:
+            - generic [ref=e622]:
+              - img [ref=e625]
+              - generic [ref=e626]:
+                - heading "Celular Samsung Galaxy A07 Violeta Claro 64gb" [level=3] [ref=e627]:
+                  - link "Celular Samsung Galaxy A07 Violeta Claro 64gb" [ref=e628] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.mx/celular-samsung-galaxy-a07-violeta-claro-64gb/p/MLM61315416?pdp_filters=deal%3AMLM1165097-3#polycard_client=splinter&c_element_order=5&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=tecnologia-hasta-40-off&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=e2e31704-88a9-3853-89b3-bc306c9dc0cb&V=5&c_campaign=tecnologia-hasta-40-off&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=5&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM1165097-1&c_global_position=13&c_element_id=e2e31704-88a9-3853-89b3-bc306c9dc0cb&wid=MLM5145723466&sid=splinter
+                - generic [ref=e629]:
+                  - 'img "Antes: 2199 pesos mexicanos" [ref=e630]':
+                    - generic [ref=e631]: $
+                    - generic [ref=e632]: 2,199
+                  - generic [ref=e633]:
+                    - 'img "Ahora: 1490 pesos mexicanos" [ref=e634]':
+                      - generic [ref=e635]: $
+                      - generic [ref=e636]: 1,490
+                    - generic [ref=e637]: 32% OFF
+                  - generic [ref=e638]:
+                    - text: 24 meses de
+                    - img "90 pesos mexicanos con 04 centavos" [ref=e639]:
+                      - generic [ref=e641]: $
+                      - generic [ref=e642]: "90"
+                      - generic [ref=e643]: .
+                      - generic [ref=e644]: "04"
+                - generic [ref=e645]:
+                  - text: Llega gratis hoy
+                  - img "Enviado por FULL" [ref=e646]
+                  - text: por ser tu primera compra
+          - group [ref=e647]:
+            - generic [ref=e648]:
+              - img [ref=e651]
+              - generic [ref=e652]:
+                - heading [level=3] [ref=e653]:
+                  - link [ref=e654] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.mx/celular-samsung-galaxy-a07-negro-64gb/p/MLM63437715?pdp_filters=deal%3AMLM1165097-3#polycard_client=splinter&c_element_order=6&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=tecnologia-hasta-40-off&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=93016bc2-4d02-3748-b72c-094c3f9360d6&V=6&c_campaign=tecnologia-hasta-40-off&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=6&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM1165097-1&c_global_position=13&c_element_id=93016bc2-4d02-3748-b72c-094c3f9360d6&wid=MLM2714065497&sid=splinter
+                    - text: Celular Samsung Galaxy A07 Negro 64gb
+                - generic [ref=e655]:
+                  - img [ref=e656]:
+                    - generic [ref=e657]: $
+                    - generic [ref=e658]: 2,199
+                  - generic [ref=e659]:
+                    - img [ref=e660]:
+                      - generic [ref=e661]: $
+                      - generic [ref=e662]: 1,499
+                    - generic [ref=e663]: 31% OFF
+                  - generic [ref=e664]:
+                    - text: 24 meses de
+                    - img [ref=e665]:
+                      - generic [ref=e667]: $
+                      - generic [ref=e668]: "90"
+                      - generic [ref=e669]: .
+                      - generic [ref=e670]: "58"
+                - generic [ref=e671]:
+                  - text: Llega gratis hoy
+                  - img [ref=e672]
+                  - text: por ser tu primera compra
+          - group [ref=e673]:
+            - generic [ref=e674]:
+              - img [ref=e677]
+              - generic [ref=e678]:
+                - generic [ref=e679]: MÁS VENDIDO
+                - heading [level=3] [ref=e680]:
+                  - link [ref=e681] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.mx/celular-xiaomi-poco-m7-8-gb-de-ram-256-gb-rom-dual-sim-plateado/p/MLM53872320?pdp_filters=deal%3AMLM1165097-3#polycard_client=splinter&c_element_order=7&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=tecnologia-hasta-40-off&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=e96c87e0-5bd7-3b9f-a60e-a893c34ad44f&V=7&c_campaign=tecnologia-hasta-40-off&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=7&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM1165097-1&c_global_position=13&c_element_id=e96c87e0-5bd7-3b9f-a60e-a893c34ad44f&wid=MLM3961536580&sid=splinter
+                    - text: Celular Xiaomi Poco M7 8 Gb De Ram 256 Gb Rom Dual Sim Plateado
+                - generic [ref=e682]:
+                  - img [ref=e683]:
+                    - generic [ref=e684]: $
+                    - generic [ref=e685]: 4,162
+                  - generic [ref=e686]:
+                    - img [ref=e687]:
+                      - generic [ref=e688]: $
+                      - generic [ref=e689]: 3,201
+                    - generic [ref=e690]: 23% OFF
+                  - generic [ref=e691]:
+                    - text: 15 meses sin intereses de
+                    - img [ref=e692]:
+                      - generic [ref=e694]: $
+                      - generic [ref=e695]: "213"
+                      - generic [ref=e696]: .
+                      - generic [ref=e697]: "44"
+                - generic [ref=e698]:
+                  - text: Llega gratis hoy
+                  - img [ref=e699]
+                  - text: por ser tu primera compra
+          - group [ref=e700]:
+            - generic [ref=e701]:
+              - img [ref=e704]
+              - generic [ref=e705]:
+                - generic [ref=e706]: MÁS VENDIDO
+                - heading [level=3] [ref=e707]:
+                  - link [ref=e708] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.mx/aspiradora-truper-seco-mojado-3-gal-3-hp-60-hz-filtro-hepa-accesorios-incluidos-asp-03n-naranja/p/MLM44422561?pdp_filters=deal%3AMLM1165097-3#polycard_client=splinter&c_element_order=8&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=tecnologia-hasta-40-off&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=e3e27ab5-1009-36bd-a224-d9996e9ea8da&V=8&c_campaign=tecnologia-hasta-40-off&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=8&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM1165097-1&c_global_position=13&c_element_id=e3e27ab5-1009-36bd-a224-d9996e9ea8da&wid=MLM3493385494&sid=splinter
+                    - text: Aspiradora Truper Seco Mojado 3 Gal 3 Hp 60 Hz Filtro Hepa Accesorios Incluidos Asp-03n Naranja
+                - generic [ref=e709]:
+                  - img [ref=e711]:
+                    - generic [ref=e712]: $
+                    - generic [ref=e713]: "825"
+                  - generic [ref=e714]:
+                    - text: 24 meses de
+                    - img [ref=e715]:
+                      - generic [ref=e717]: $
+                      - generic [ref=e718]: "49"
+                      - generic [ref=e719]: .
+                      - generic [ref=e720]: "85"
+                - generic [ref=e721]:
+                  - text: Llega gratis hoy
+                  - img [ref=e722]
+                  - text: por ser tu primera compra
+          - group [ref=e723]:
+            - generic [ref=e724]:
+              - img [ref=e727]
+              - generic [ref=e728]:
+                - generic [ref=e729]: MÁS VENDIDO
+                - heading [level=3] [ref=e730]:
+                  - link [ref=e731] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.mx/epson-ecotank-impresora-a-color-l1250-wifi/p/MLM23447077?pdp_filters=deal%3AMLM1165097-3#polycard_client=splinter&c_element_order=9&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=tecnologia-hasta-40-off&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=7f192469-be53-3226-95d5-48b77692d6ae&V=9&c_campaign=tecnologia-hasta-40-off&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=9&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM1165097-1&c_global_position=13&c_element_id=7f192469-be53-3226-95d5-48b77692d6ae&wid=MLM1914239317&sid=splinter
+                    - text: Epson Ecotank Impresora A Color L1250 Wifi Negro
+                - generic [ref=e732]:
+                  - img [ref=e733]:
+                    - generic [ref=e734]: $
+                    - generic [ref=e735]: 3,599
+                  - generic [ref=e736]:
+                    - img [ref=e737]:
+                      - generic [ref=e738]: $
+                      - generic [ref=e739]: 3,239
+                    - generic [ref=e740]: 10% OFF
+                  - generic [ref=e741]:
+                    - text: 24 meses de
+                    - img [ref=e742]:
+                      - generic [ref=e744]: $
+                      - generic [ref=e745]: "195"
+                      - generic [ref=e746]: .
+                      - generic [ref=e747]: "74"
+                - generic [ref=e748]:
+                  - text: Envío gratis
+                  - img [ref=e749]
+                  - text: por ser tu primera compra
+          - group [ref=e750]:
+            - generic [ref=e751]:
+              - img [ref=e754]
+              - generic [ref=e755]:
+                - generic [ref=e756]: MÁS VENDIDO
+                - heading [level=3] [ref=e757]:
+                  - link [ref=e758] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.mx/licuadora-profesional-oster-blstxpg-bw-013-vaso-cristal-2-l-gris/p/MLM50868568?pdp_filters=deal%3AMLM1165097-3#polycard_client=splinter&c_element_order=10&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=tecnologia-hasta-40-off&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=705b2cd4-f004-398b-9082-bb4680003642&V=10&c_campaign=tecnologia-hasta-40-off&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=10&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM1165097-1&c_global_position=13&c_element_id=705b2cd4-f004-398b-9082-bb4680003642&wid=MLM2336792841&sid=splinter
+                    - text: Licuadora Profesional Oster Blstxpg-bw-013 Vaso Cristal 2 L Gris Negro
+                - generic [ref=e759]:
+                  - img [ref=e760]:
+                    - generic [ref=e761]: $
+                    - generic [ref=e762]: 2,990
+                  - generic [ref=e763]:
+                    - img [ref=e764]:
+                      - generic [ref=e765]: $
+                      - generic [ref=e766]: 1,649
+                    - generic [ref=e767]: 44% OFF
+                  - generic [ref=e768]:
+                    - text: 9 meses sin intereses de
+                    - img [ref=e769]:
+                      - generic [ref=e771]: $
+                      - generic [ref=e772]: "183"
+                      - generic [ref=e773]: .
+                      - generic [ref=e774]: "22"
+                - generic [ref=e775]:
+                  - text: Llega gratis hoy
+                  - img [ref=e776]
+                  - text: por ser tu primera compra
+          - group [ref=e777]:
+            - generic [ref=e778]:
+              - img [ref=e781]
+              - generic [ref=e782]:
+                - generic [ref=e783]: MÁS VENDIDO
+                - heading [level=3] [ref=e784]:
+                  - link [ref=e785] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.mx/smart-tv-32-cuory-dled-hd-android-bluetooth-netflix-disney/p/MLM42692829?pdp_filters=deal%3AMLM1165097-3#polycard_client=splinter&c_element_order=11&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=tecnologia-hasta-40-off&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=3c009a33-c69d-33cb-ab48-4d3927e86bab&V=11&c_campaign=tecnologia-hasta-40-off&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=11&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM1165097-1&c_global_position=13&c_element_id=3c009a33-c69d-33cb-ab48-4d3927e86bab&wid=MLM4343138394&sid=splinter
+                    - text: Smart Tv 32 Cuory Dled Hd Android Bluetooth Netflix Disney+
+                - generic [ref=e786]:
+                  - img [ref=e787]:
+                    - generic [ref=e788]: $
+                    - generic [ref=e789]: 3,465
+                  - generic [ref=e790]:
+                    - img [ref=e791]:
+                      - generic [ref=e792]: $
+                      - generic [ref=e793]: 1,984
+                    - generic [ref=e794]: 42% OFF
+                  - generic [ref=e795]:
+                    - text: 9 meses sin intereses de
+                    - img [ref=e796]:
+                      - generic [ref=e798]: $
+                      - generic [ref=e799]: "220"
+                      - generic [ref=e800]: .
+                      - generic [ref=e801]: "55"
+                - generic [ref=e802]:
+                  - text: Llega gratis mañana sábado
+                  - img [ref=e803]
+                  - text: por ser tu primera compra
+          - group [ref=e804]:
+            - generic [ref=e805]:
+              - img [ref=e808]
+              - generic [ref=e809]:
+                - heading [level=3] [ref=e810]:
+                  - link [ref=e811] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.mx/samsung-galaxy-buds4-pro-black-negro/p/MLM64932523?pdp_filters=deal%3AMLM1165097-3#polycard_client=splinter&c_element_order=12&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=tecnologia-hasta-40-off&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=82cf93c4-18c1-3053-a6be-fe655d4b1d7b&V=12&c_campaign=tecnologia-hasta-40-off&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=12&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM1165097-1&c_global_position=13&c_element_id=82cf93c4-18c1-3053-a6be-fe655d4b1d7b&wid=MLM4705820670&sid=splinter
+                    - text: Samsung Galaxy Buds4 Pro Black Negro
+                - generic [ref=e812]:
+                  - img [ref=e813]:
+                    - generic [ref=e814]: $
+                    - generic [ref=e815]: 4,099
+                  - generic [ref=e816]:
+                    - img [ref=e817]:
+                      - generic [ref=e818]: $
+                      - generic [ref=e819]: 3,639
+                    - generic [ref=e820]: 11% OFF
+                  - generic [ref=e821]:
+                    - text: 15 meses sin intereses de
+                    - img [ref=e822]:
+                      - generic [ref=e824]: $
+                      - generic [ref=e825]: "242"
+                      - generic [ref=e826]: .
+                      - generic [ref=e827]: "60"
+                - generic [ref=e828]:
+                  - text: Llega gratis hoy
+                  - img [ref=e829]
+                  - text: por ser tu primera compra
+          - group [ref=e830]:
+            - generic [ref=e831]:
+              - img [ref=e834]
+              - generic [ref=e835]:
+                - generic [ref=e836]: MÁS VENDIDO
+                - heading [level=3] [ref=e837]:
+                  - link [ref=e838] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.mx/hisense-rr33d6agx1-frigobar33-pies-cubicostermostato-ajustablecongelador-independienteestantes-para-botellas-de-2-litros48x45x84cmanchoxlargoxaltogris/p/MLM23485952?pdp_filters=deal%3AMLM1165097-3#polycard_client=splinter&c_element_order=13&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=tecnologia-hasta-40-off&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=87cb5cf8-1420-3379-9551-7e2cd52f3d79&V=13&c_campaign=tecnologia-hasta-40-off&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=13&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM1165097-1&c_global_position=13&c_element_id=87cb5cf8-1420-3379-9551-7e2cd52f3d79&wid=MLM2376146003&sid=splinter
+                    - text: Hisense Rr33d6agx1- Frigobar,3.3 Pies Cúbicos,termostato Ajustable,congelador Independiente,estantes Para Botellas De 2 Litros,48x45x84cm(anchoxlargoxalto),gris
+                - generic [ref=e839]:
+                  - img [ref=e840]:
+                    - generic [ref=e841]: $
+                    - generic [ref=e842]: 4,599
+                  - generic [ref=e843]:
+                    - img [ref=e844]:
+                      - generic [ref=e845]: $
+                      - generic [ref=e846]: 2,988
+                    - generic [ref=e847]: 35% OFF
+                  - generic [ref=e848]:
+                    - text: 12 meses sin intereses de
+                    - img [ref=e849]:
+                      - generic [ref=e851]: $
+                      - generic [ref=e852]: "249"
+                - generic [ref=e853]:
+                  - text: Llega gratis mañana sábado
+                  - img [ref=e854]
+                  - text: por ser tu primera compra
+          - group [ref=e855]:
+            - generic [ref=e856]:
+              - img [ref=e859]
+              - generic [ref=e860]:
+                - generic [ref=e861]: MÁS VENDIDO
+                - heading [level=3] [ref=e862]:
+                  - link [ref=e863] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.mx/control-nintendo-switch-2-pro-controller/p/MLM48924402?pdp_filters=deal%3AMLM1165097-3#polycard_client=splinter&c_element_order=14&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=tecnologia-hasta-40-off&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=b5328c98-1022-3284-8cf8-7487b0acbe87&V=14&c_campaign=tecnologia-hasta-40-off&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=14&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM1165097-1&c_global_position=13&c_element_id=b5328c98-1022-3284-8cf8-7487b0acbe87&wid=MLM3659215698&sid=splinter
+                    - text: Control Nintendo Switch 2 Pro Controller Negro
+                - generic [ref=e864]:
+                  - img [ref=e865]:
+                    - generic [ref=e866]: $
+                    - generic [ref=e867]: 2,299
+                  - generic [ref=e868]:
+                    - img [ref=e869]:
+                      - generic [ref=e870]: $
+                      - generic [ref=e871]: 1,597
+                    - generic [ref=e872]: 30% OFF
+                  - generic [ref=e873]:
+                    - text: 24 meses de
+                    - img [ref=e874]:
+                      - generic [ref=e876]: $
+                      - generic [ref=e877]: "96"
+                      - generic [ref=e878]: .
+                      - generic [ref=e879]: "54"
+                - generic [ref=e880]:
+                  - text: Llega gratis hoy
+                  - img [ref=e881]
+                  - text: por ser tu primera compra
+          - group [ref=e882]:
+            - generic [ref=e883]:
+              - img [ref=e886]
+              - generic [ref=e887]:
+                - generic [ref=e888]: MÁS VENDIDO
+                - heading [level=3] [ref=e889]:
+                  - link [ref=e890] [cursor=pointer]:
+                    - /url: https://articulo.mercadolibre.com.mx/MLM-2628412223-3pcs-52cm-ventilador-techo-remoto-3-velocid-6-aspas-_JM?searchVariation=194298729695#polycard_client=splinter&c_element_order=15&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=tecnologia-hasta-40-off&type=item&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=0c1f5fb7-5173-3e95-839c-fc9b50d582cc&V=15&c_campaign=tecnologia-hasta-40-off&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=15&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM1165097-1&c_global_position=13&c_element_id=0c1f5fb7-5173-3e95-839c-fc9b50d582cc
+                    - text: 3pcs 52cm Ventilador Techo Remoto 3 Velocid 6 Aspas
+                - img [ref=e893]:
+                  - generic [ref=e894]: $
+                  - generic [ref=e895]: "198"
+                - generic [ref=e896]:
+                  - text: Llega gratis hoy
+                  - img [ref=e897]
+                  - text: por ser tu primera compra
+          - group [ref=e898]:
+            - generic [ref=e899]:
+              - img [ref=e902]
+              - generic [ref=e903]:
+                - generic [ref=e904]: OFERTA DEL DÍA
+                - heading [level=3] [ref=e905]:
+                  - link [ref=e906] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.mx/ventilador-de-torre-weluvfit-con-control-remoto-5-velocidad-temporizador-de-12-horas-gris-plata-color-ventiladores-torre-para-dormitorio-cocina-oficina/p/MLM45404628?pdp_filters=deal%3AMLM1165097-3#polycard_client=splinter&c_element_order=16&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=tecnologia-hasta-40-off&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=6a9d18e2-a974-3b25-a281-4e7bde7d7740&V=16&c_campaign=tecnologia-hasta-40-off&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=16&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM1165097-1&c_global_position=13&c_element_id=6a9d18e2-a974-3b25-a281-4e7bde7d7740&wid=MLM2625035649&sid=splinter
+                    - text: Ventilador De Torre Weluvfit Con Control Remoto 5 Velocidad Temporizador De 12 Horas Gris Plata Color Ventiladores Torre Para Dormitorio, Cocina, Oficina 30 Cm Negro Plástico
+                - generic [ref=e907]:
+                  - img [ref=e908]:
+                    - generic [ref=e909]: $
+                    - generic [ref=e910]: 1,414
+                  - generic [ref=e911]:
+                    - img [ref=e912]:
+                      - generic [ref=e913]: $
+                      - generic [ref=e914]: "938"
+                      - generic [ref=e915]: ","
+                      - generic [ref=e916]: "87"
+                    - generic [ref=e917]: 33% OFF
+                  - generic [ref=e918]:
+                    - text: 24 meses de
+                    - img [ref=e919]:
+                      - generic [ref=e921]: $
+                      - generic [ref=e922]: "56"
+                      - generic [ref=e923]: .
+                      - generic [ref=e924]: "74"
+                - generic [ref=e925]:
+                  - text: Llega gratis mañana sábado
+                  - img [ref=e926]
+                  - text: por ser tu primera compra
+          - group [ref=e927]:
+            - generic [ref=e928]:
+              - img [ref=e931]
+              - generic [ref=e932]:
+                - generic [ref=e933]: MÁS VENDIDO
+                - heading [level=3] [ref=e934]:
+                  - link [ref=e935] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.mx/laptop-ideapad-slim-3-153-intel-core-i5-24gb-ram-1tb-ssd-lenovo/p/MLM53153939?pdp_filters=deal%3AMLM1165097-3#polycard_client=splinter&c_element_order=17&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=tecnologia-hasta-40-off&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=115724c8-e43a-3364-ab6c-7aeda74778a7&V=17&c_campaign=tecnologia-hasta-40-off&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=17&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM1165097-1&c_global_position=13&c_element_id=115724c8-e43a-3364-ab6c-7aeda74778a7&wid=MLM3928791182&sid=splinter
+                    - text: Laptop Ideapad Slim 3 15,3 Intel Core I5 24gb Ram 1tb Ssd Lenovo
+                - generic [ref=e936]:
+                  - img [ref=e937]:
+                    - generic [ref=e938]: $
+                    - generic [ref=e939]: 28,499
+                  - generic [ref=e940]:
+                    - img [ref=e941]:
+                      - generic [ref=e942]: $
+                      - generic [ref=e943]: 13,499
+                    - generic [ref=e944]: 52% OFF
+                  - generic [ref=e945]:
+                    - text: 12 meses sin intereses de
+                    - img [ref=e946]:
+                      - generic [ref=e948]: $
+                      - generic [ref=e949]: 1,124
+                - generic [ref=e950]:
+                  - text: Llega gratis hoy
+                  - img [ref=e951]
+                  - text: por ser tu primera compra
+          - group [ref=e952]:
+            - generic [ref=e953]:
+              - img [ref=e956]
+              - generic [ref=e957]:
+                - generic [ref=e958]: APPLE TIENDA OFICIAL
+                - heading [level=3] [ref=e959]:
+                  - link [ref=e960] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.mx/apple-airpods-pro-3-color-blanco-con-cancelacion-de-ruido-distribuidor-autorizado/p/MLM1054106888?pdp_filters=deal%3AMLM1165097-3#polycard_client=splinter&c_element_order=18&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=tecnologia-hasta-40-off&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=3b199f04-ac92-32ca-a642-d3e4d616400b&V=18&c_campaign=tecnologia-hasta-40-off&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=18&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM1165097-1&c_global_position=13&c_element_id=3b199f04-ac92-32ca-a642-d3e4d616400b&wid=MLM4055960640&sid=splinter
+                    - text: Apple AirPods Pro 3 Color Blanco Con Cancelación De Ruido - Distribuidor Autorizado
+                - generic [ref=e961]:
+                  - img [ref=e962]:
+                    - generic [ref=e963]: $
+                    - generic [ref=e964]: 5,799
+                  - generic [ref=e965]:
+                    - img [ref=e966]:
+                      - generic [ref=e967]: $
+                      - generic [ref=e968]: 5,512
+                    - generic [ref=e969]: 4% OFF
+                  - generic [ref=e970]:
+                    - text: 12 meses sin intereses de
+                    - img [ref=e971]:
+                      - generic [ref=e973]: $
+                      - generic [ref=e974]: "459"
+                      - generic [ref=e975]: .
+                      - generic [ref=e976]: "37"
+                - generic [ref=e977]:
+                  - text: Llega gratis hoy
+                  - img [ref=e978]
+                  - text: por ser tu primera compra
+          - group [ref=e979]:
+            - generic [ref=e980]:
+              - img [ref=e983]
+              - generic [ref=e984]:
+                - generic [ref=e985]: MÁS VENDIDO
+                - heading [level=3] [ref=e986]:
+                  - link [ref=e987] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.mx/bocina-portatil-xiaomi-sound-party-50w-bateria-hasta-26hrs-audio-efx/p/MLM62121022?pdp_filters=deal%3AMLM1165097-3#polycard_client=splinter&c_element_order=19&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=tecnologia-hasta-40-off&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=084210d8-7665-3bf4-a45b-9cfe07747e6b&V=19&c_campaign=tecnologia-hasta-40-off&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=19&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM1165097-1&c_global_position=13&c_element_id=084210d8-7665-3bf4-a45b-9cfe07747e6b&wid=MLM2708291231&sid=splinter
+                    - text: Bocina Portátil Xiaomi Sound Party 50w Batería Hasta 26hrs Audio Efx Negro
+                - generic [ref=e988]:
+                  - img [ref=e989]:
+                    - generic [ref=e990]: $
+                    - generic [ref=e991]: 2,699
+                  - generic [ref=e992]:
+                    - img [ref=e993]:
+                      - generic [ref=e994]: $
+                      - generic [ref=e995]: 1,899
+                    - generic [ref=e996]: 29% OFF
+                  - generic [ref=e997]:
+                    - text: 24 meses de
+                    - img [ref=e998]:
+                      - generic [ref=e1000]: $
+                      - generic [ref=e1001]: "114"
+                      - generic [ref=e1002]: .
+                      - generic [ref=e1003]: "81"
+                - generic [ref=e1004]:
+                  - text: Llega gratis hoy
+                  - img [ref=e1005]
+                  - text: por ser tu primera compra
+          - group [ref=e1006]:
+            - generic [ref=e1007]:
+              - img [ref=e1010]
+              - generic [ref=e1011]:
+                - generic [ref=e1012]:
+                  - img [ref=e1013]
+                  - text: OFERTA IMPERDIBLE
+                - heading [level=3] [ref=e1014]:
+                  - link [ref=e1015] [cursor=pointer]:
+                    - /url: https://www.mercadolibre.com.mx/celular-samsung-galaxy-a07-verde-64gb/p/MLM62368053?pdp_filters=deal%3AMLM1165097-3#polycard_client=splinter&c_element_order=20&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=tecnologia-hasta-40-off&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=efb4b7a1-5220-3233-b738-835dd48b1f3d&V=20&c_campaign=tecnologia-hasta-40-off&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=20&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM1165097-1&c_global_position=13&c_element_id=efb4b7a1-5220-3233-b738-835dd48b1f3d&wid=MLM2714424273&sid=splinter
+                    - text: Celular Samsung Galaxy A07 Verde 64gb
+                - generic [ref=e1016]:
+                  - img [ref=e1017]:
+                    - generic [ref=e1018]: $
+                    - generic [ref=e1019]: 2,199
+                  - generic [ref=e1020]:
+                    - img [ref=e1021]:
+                      - generic [ref=e1022]: $
+                      - generic [ref=e1023]: 1,499
+                    - generic [ref=e1024]: 31% OFF
+                  - generic [ref=e1025]:
+                    - text: 24 meses de
+                    - img [ref=e1026]:
+                      - generic [ref=e1028]: $
+                      - generic [ref=e1029]: "90"
+                      - generic [ref=e1030]: .
+                      - generic [ref=e1031]: "58"
+                - generic [ref=e1032]:
+                  - text: Llega gratis hoy
+                  - img [ref=e1033]
+                  - text: por ser tu primera compra
+        - button "Siguiente" [ref=e1034] [cursor=pointer]:
+          - img [ref=e1035]
+    - article [ref=e1039]:
+      - heading "Descuentos con marcas" [level=2] [ref=e1040]
+      - generic [ref=e1045]:
+        - group "1 de 7" [ref=e1046]:
+          - link "ADS SPONSORS CETAPHIL" [ref=e1048] [cursor=pointer]:
+            - /url: https://listado.mercadolibre.com.mx/_Container_cetaphil-piel-sensible#c_container_id=MLM1549700-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=1&c_campaign=container-mlm-1549700-sponsor-cetaphil&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e862f7de-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e862f7de-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=15&DEAL_ID=MLM53402&S=landingHubhot-sale&V=52&T=carousel&L=CONTAINER_MLM1549700_SPONSOR_CETAPHIL&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+            - img "ADS SPONSORS CETAPHIL" [ref=e1052]
+        - group "2 de 7" [ref=e1053]:
+          - link "ADS SPONSORS NIKE" [ref=e1055] [cursor=pointer]:
+            - /url: https://listado.mercadolibre.com.mx/_Container_nike-pre-hot-sale-hp#c_container_id=MLM1620880-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=2&c_campaign=container-mlm-1620880-sponsor-nike&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e8631ee0-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e8631ee0-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=15&DEAL_ID=MLM53402&S=landingHubhot-sale&V=53&T=carousel&L=CONTAINER_MLM1620880_SPONSOR_NIKE&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+            - img "ADS SPONSORS NIKE" [ref=e1059]
+        - group "3 de 7" [ref=e1060]:
+          - link "ADS SPONSORS REEBOK" [ref=e1062] [cursor=pointer]:
+            - /url: https://listado.mercadolibre.com.mx/_Container_reebok-hs#c_container_id=MLM1622000-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=3&c_campaign=container-mlm-1622000-sponsor-reebok&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e8631ee1-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e8631ee1-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=15&DEAL_ID=MLM53402&S=landingHubhot-sale&V=54&T=carousel&L=CONTAINER_MLM1622000_SPONSOR_REEBOK&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+            - img "ADS SPONSORS REEBOK" [ref=e1066]
+        - group "4 de 7" [ref=e1067]:
+          - link "ADS SPONSORS SHARK" [ref=e1069] [cursor=pointer]:
+            - /url: https://listado.mercadolibre.com.mx/_Container_quincenasharkbelleza#c_container_id=MLM1540819-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=4&c_campaign=container-mlm-1540819-sponsor-sharkninja&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e8631ee2-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e8631ee2-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=15&DEAL_ID=MLM53402&S=landingHubhot-sale&V=55&T=carousel&L=CONTAINER_MLM1540819_SPONSOR_SHARKNINJA&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+            - img "ADS SPONSORS SHARK" [ref=e1073]
+        - group "5 de 7" [ref=e1074]:
+          - link "ADS SPONSORS MOTOROLA" [ref=e1076] [cursor=pointer]:
+            - /url: https://listado.mercadolibre.com.mx/_Container_motorola-mx-motoweek#c_container_id=MLM1590054-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=5&c_campaign=ads-sponsors-motorola&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e8631ee3-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e8631ee3-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=15&DEAL_ID=MLM53402&S=landingHubhot-sale&V=56&T=carousel&L=ADS-SPONSORS-MOTOROLA&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+            - img "ADS SPONSORS MOTOROLA" [ref=e1080]
+        - group "6 de 7" [ref=e1081]:
+          - link "ADS SPONSORS LA VASCONIA" [ref=e1083] [cursor=pointer]:
+            - /url: https://listado.mercadolibre.com.mx/_Container_lavasconiaxekco-top-ventas#c_container_id=MLM1612885-1&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=6&c_campaign=container-mlm-1612885-sponsor-lavasconia&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e8631ee4-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e8631ee4-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=15&DEAL_ID=MLM53402&S=landingHubhot-sale&V=57&T=carousel&L=CONTAINER_MLM1612885_SPONSOR_LAVASCONIA&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+            - img "ADS SPONSORS LA VASCONIA" [ref=e1087]
+        - group "7 de 7" [ref=e1088]:
+          - link "ADS SPONSORS TRONSMART" [ref=e1090] [cursor=pointer]:
+            - /url: https://www.mercadolibre.com.mx/pagina/hkhongkongnewnuclearelemxf#c_container_id=not_apply&c_id=%2Fsplinter%2Fcarouselitem&c_element_order=7&c_campaign=ads-sponsors-tronsmart&c_label=%2Fsplinter%2Fcarouselitem&c_uid=e860fc04-55f3-11f1-bfb6-cdd9f617e9ab&c_element_id=e860fc04-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&c_content_type=default&c_global_position=15&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+            - img "ADS SPONSORS TRONSMART" [ref=e1094]
+    - generic [ref=e1098]:
+      - generic [ref=e1099]:
+        - heading "OFERTAS RELÁMPAGO" [level=2] [ref=e1100]
+        - link "Ver más OFERTAS RELÁMPAGO" [ref=e1101] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/ofertas?promotion_type=lightning#c_container_id=MLM779363-1&c_element_id=e860fc05-55f3-11f1-bfb6-cdd9f617e9ab&c_content_origin=splinter-default&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95
+          - text: Ver más
+          - generic [ref=e1102]: OFERTAS RELÁMPAGO
+      - generic [ref=e1103]:
+        - generic [ref=e1104]:
+          - img [ref=e1107]
+          - generic [ref=e1108]:
+            - generic [ref=e1109]: MÁS VENDIDO
+            - heading "Guantes De Nitrilo Vinil Libre De Latex Sin Polvo Azul Negro" [level=3] [ref=e1110]:
+              - link "Guantes De Nitrilo Vinil Libre De Latex Sin Polvo Azul Negro" [ref=e1111] [cursor=pointer]:
+                - /url: https://articulo.mercadolibre.com.mx/MLM-1602785195-guantes-de-nitrilo-vinil-libre-de-latex-sin-polvo-azul-negro-_JM#polycard_client=splinter&c_element_order=1&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=ofertas-relampago&type=item&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=95e3ceb5-9a1a-3d43-94e0-ab150e6e4a25&V=1&c_campaign=ofertas-relampago&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=1&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM779363-1&c_global_position=17&c_element_id=95e3ceb5-9a1a-3d43-94e0-ab150e6e4a25
+            - generic [ref=e1112]:
+              - 'img "Antes: 139 pesos mexicanos" [ref=e1113]':
+                - generic [ref=e1114]: $
+                - generic [ref=e1115]: "139"
+              - generic [ref=e1116]:
+                - 'img "Ahora: 116 pesos mexicanos" [ref=e1117]':
+                  - generic [ref=e1118]: $
+                  - generic [ref=e1119]: "116"
+                - generic [ref=e1120]: 16% OFF
+            - generic [ref=e1121]:
+              - text: Llega gratis hoy
+              - img "Enviado por FULL" [ref=e1122]
+              - text: por ser tu primera compra
+        - generic [ref=e1123]:
+          - img [ref=e1126]
+          - generic [ref=e1127]:
+            - generic [ref=e1128]: MÁS VENDIDO
+            - heading "Colchón Individual Memory Foam 100x190 Cm Espuma Ergonómico Firme Soporta 100kg En Caja Blick Color Blanco" [level=3] [ref=e1129]:
+              - link "Colchón Individual Memory Foam 100x190 Cm Espuma Ergonómico Firme Soporta 100kg En Caja Blick Color Blanco" [ref=e1130] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/colchon-individual-memory-foam-100x190-cm-espuma-ergonomico-firme-soporta-100kg-en-caja-blick-color-blanco/p/MLM45621868?pdp_filters=deal%3AMLM779363-3001#polycard_client=splinter&c_element_order=2&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=ofertas-relampago&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=c9109d3e-9ec4-3e0f-b8e5-2d4231d94f07&V=2&c_campaign=ofertas-relampago&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=2&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM779363-1&c_global_position=17&c_element_id=c9109d3e-9ec4-3e0f-b8e5-2d4231d94f07&wid=MLM4832063266&sid=splinter
+            - generic [ref=e1131]:
+              - 'img "Antes: 2399 pesos mexicanos" [ref=e1132]':
+                - generic [ref=e1133]: $
+                - generic [ref=e1134]: 2,399
+              - generic [ref=e1135]:
+                - 'img "Ahora: 1299 pesos mexicanos" [ref=e1136]':
+                  - generic [ref=e1137]: $
+                  - generic [ref=e1138]: 1,299
+                - generic [ref=e1139]: 45% OFF
+              - generic [ref=e1140]:
+                - text: 24 meses de
+                - img "78 pesos mexicanos con 50 centavos" [ref=e1141]:
+                  - generic [ref=e1143]: $
+                  - generic [ref=e1144]: "78"
+                  - generic [ref=e1145]: .
+                  - generic [ref=e1146]: "50"
+            - generic [ref=e1147]:
+              - text: Llega gratis mañana sábado
+              - img "Enviado por FULL" [ref=e1148]
+              - text: por ser tu primera compra
+        - generic [ref=e1149]:
+          - img [ref=e1152]
+          - generic [ref=e1153]:
+            - generic [ref=e1154]: MÁS VENDIDO
+            - heading "Apple AirPods 4° Generación iPhone Y Android Cancelación Blanco" [level=3] [ref=e1155]:
+              - link "Apple AirPods 4° Generación iPhone Y Android Cancelación Blanco" [ref=e1156] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/apple-airpods-4-generacion-iphone-y-android-cancelacion/up/MLMU3178496273?pdp_filters=deal%3AMLM779363-3001#polycard_client=splinter&c_element_order=3&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=ofertas-relampago&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=068c12ce-236f-35a1-9c3f-4ccd0f4afe44&V=3&c_campaign=ofertas-relampago&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=3&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM779363-1&c_global_position=17&c_element_id=068c12ce-236f-35a1-9c3f-4ccd0f4afe44&wid=MLM2313370649&sid=splinter
+            - generic [ref=e1157]:
+              - 'img "Antes: 489 pesos mexicanos" [ref=e1158]':
+                - generic [ref=e1159]: $
+                - generic [ref=e1160]: "489"
+              - generic [ref=e1161]:
+                - 'img "Ahora: 309 pesos mexicanos con 90 centavos" [ref=e1162]':
+                  - generic [ref=e1163]: $
+                  - generic [ref=e1164]: "309"
+                  - generic [ref=e1165]: ","
+                  - generic [ref=e1166]: "90"
+                - generic [ref=e1167]: 36% OFF
+            - generic [ref=e1168]:
+              - text: Llega gratis hoy
+              - img "Enviado por FULL" [ref=e1169]
+              - text: por ser tu primera compra
+        - generic [ref=e1170]:
+          - img [ref=e1173]
+          - generic [ref=e1174]:
+            - generic [ref=e1175]: MÁS VENDIDO
+            - heading "Lámpara Solar Led Exterior 650w Ruomu Sensor Ip67 Pack 2 Luz Brillante Negro" [level=3] [ref=e1176]:
+              - link "Lámpara Solar Led Exterior 650w Ruomu Sensor Ip67 Pack 2 Luz Brillante Negro" [ref=e1177] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/lampara-solar-led-exterior-650w-ruomu-sensor-ip67-pack-2-luz-brillante/p/MLM63065712?pdp_filters=deal%3AMLM779363-3001#polycard_client=splinter&c_element_order=4&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=ofertas-relampago&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=ed020965-8b22-3513-8d52-a7ae09ed17df&V=4&c_campaign=ofertas-relampago&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=4&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM779363-1&c_global_position=17&c_element_id=ed020965-8b22-3513-8d52-a7ae09ed17df&wid=MLM2660113735&sid=splinter
+            - generic [ref=e1178]:
+              - 'img "Antes: 1500 pesos mexicanos" [ref=e1179]':
+                - generic [ref=e1180]: $
+                - generic [ref=e1181]: 1,500
+              - generic [ref=e1182]:
+                - 'img "Ahora: 478 pesos mexicanos" [ref=e1183]':
+                  - generic [ref=e1184]: $
+                  - generic [ref=e1185]: "478"
+                - generic [ref=e1186]: 68% OFF
+            - generic [ref=e1189]:
+              - img [ref=e1190]
+              - text: Cupón 10% OFF
+            - generic [ref=e1191]:
+              - text: Llega gratis hoy
+              - img "Enviado por FULL" [ref=e1192]
+              - text: por ser tu primera compra
+        - generic [ref=e1193]:
+          - img [ref=e1196]
+          - generic [ref=e1197]:
+            - heading "Jean Paul Gaultier Le Beau Intense Edp 125ml Hombre" [level=3] [ref=e1198]:
+              - link "Jean Paul Gaultier Le Beau Intense Edp 125ml Hombre" [ref=e1199] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/jean-paul-gaultier-le-beau-intense-edp-125ml-hombre/up/MLMU3953974839?pdp_filters=deal%3AMLM779363-3001#polycard_client=splinter&c_element_order=5&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=ofertas-relampago&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=ed0e34db-e640-3536-be99-1cc437f14c3b&V=5&c_campaign=ofertas-relampago&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=5&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM779363-1&c_global_position=17&c_element_id=ed0e34db-e640-3536-be99-1cc437f14c3b&wid=MLM5326947394&sid=splinter
+            - generic [ref=e1200]:
+              - 'img "Antes: 2099 pesos mexicanos" [ref=e1201]':
+                - generic [ref=e1202]: $
+                - generic [ref=e1203]: 2,099
+              - generic [ref=e1204]:
+                - 'img "Ahora: 797 pesos mexicanos con 62 centavos" [ref=e1205]':
+                  - generic [ref=e1206]: $
+                  - generic [ref=e1207]: "797"
+                  - generic [ref=e1208]: ","
+                  - generic [ref=e1209]: "62"
+                - generic [ref=e1210]: 62% OFF
+              - generic [ref=e1211]:
+                - text: 24 meses de
+                - img "48 pesos mexicanos con 20 centavos" [ref=e1212]:
+                  - generic [ref=e1214]: $
+                  - generic [ref=e1215]: "48"
+                  - generic [ref=e1216]: .
+                  - generic [ref=e1217]: "20"
+            - generic [ref=e1218]: Envío gratispor ser tu primera compra
+        - generic [ref=e1219]:
+          - img [ref=e1222]
+          - generic [ref=e1223]:
+            - generic [ref=e1224]: MÁS VENDIDO
+            - heading "Impermeable Motociclista Reflejante Con Capucha Alta Calidad" [level=3] [ref=e1225]:
+              - link "Impermeable Motociclista Reflejante Con Capucha Alta Calidad" [ref=e1226] [cursor=pointer]:
+                - /url: https://articulo.mercadolibre.com.mx/MLM-4723972416-impermeable-motociclista-reflejante-con-capucha-alta-calidad-_JM?searchVariation=189960233816#polycard_client=splinter&c_element_order=6&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=ofertas-relampago&type=item&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=c27ea5ce-2c81-31c6-a3dc-01c49b5093d6&V=6&c_campaign=ofertas-relampago&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=6&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM779363-1&c_global_position=17&c_element_id=c27ea5ce-2c81-31c6-a3dc-01c49b5093d6
+            - generic [ref=e1227]:
+              - 'img "Antes: 699 pesos mexicanos" [ref=e1228]':
+                - generic [ref=e1229]: $
+                - generic [ref=e1230]: "699"
+              - generic [ref=e1231]:
+                - 'img "Ahora: 562 pesos mexicanos con 30 centavos" [ref=e1232]':
+                  - generic [ref=e1233]: $
+                  - generic [ref=e1234]: "562"
+                  - generic [ref=e1235]: ","
+                  - generic [ref=e1236]: "30"
+                - generic [ref=e1237]: 19% OFF
+              - generic [ref=e1238]:
+                - text: 3 meses sin intereses de
+                - img "187 pesos mexicanos con 43 centavos" [ref=e1239]:
+                  - generic [ref=e1241]: $
+                  - generic [ref=e1242]: "187"
+                  - generic [ref=e1243]: .
+                  - generic [ref=e1244]: "43"
+            - generic [ref=e1245]:
+              - text: Llega gratis hoy
+              - img "Enviado por FULL" [ref=e1246]
+              - text: por ser tu primera compra
+        - generic [ref=e1247]:
+          - img [ref=e1250]
+          - generic [ref=e1251]:
+            - generic [ref=e1252]: MÁS VENDIDO
+            - heading "Guante Vinil Synmax Nitrilo Libre De Latex" [level=3] [ref=e1253]:
+              - link "Guante Vinil Synmax Nitrilo Libre De Latex" [ref=e1254] [cursor=pointer]:
+                - /url: https://articulo.mercadolibre.com.mx/MLM-952846211-guante-vinil-synmax-nitrilo-libre-de-latex-_JM#polycard_client=splinter&c_element_order=7&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=ofertas-relampago&type=item&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=0f70182c-7317-3015-bc6b-27e8a80957d2&V=7&c_campaign=ofertas-relampago&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=7&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM779363-1&c_global_position=17&c_element_id=0f70182c-7317-3015-bc6b-27e8a80957d2
+            - generic [ref=e1255]:
+              - 'img "Antes: 218 pesos mexicanos" [ref=e1256]':
+                - generic [ref=e1257]: $
+                - generic [ref=e1258]: "218"
+              - generic [ref=e1259]:
+                - 'img "Ahora: 119 pesos mexicanos" [ref=e1260]':
+                  - generic [ref=e1261]: $
+                  - generic [ref=e1262]: "119"
+                - generic [ref=e1263]: 45% OFF
+            - generic [ref=e1264]:
+              - text: Llega gratis hoy
+              - img "Enviado por FULL" [ref=e1265]
+              - text: por ser tu primera compra
+        - generic [ref=e1266]:
+          - img [ref=e1269]
+          - generic [ref=e1270]:
+            - generic [ref=e1271]: MÁS VENDIDO
+            - heading "Llave De Impacto Inalámbrica Luckssy De 21v Y 520nm Con Motor Sin Escobillas Y Juego De Herramientas De 2 Baterías Gris" [level=3] [ref=e1272]:
+              - link "Llave De Impacto Inalámbrica Luckssy De 21v Y 520nm Con Motor Sin Escobillas Y Juego De Herramientas De 2 Baterías Gris" [ref=e1273] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/llave-de-impacto-inalambrica-luckssy-de-21v-y-520nm-con-motor-sin-escobillas-y-juego-de-herramientas-de-2-baterias/p/MLM48434598?pdp_filters=deal%3AMLM779363-3001#polycard_client=splinter&c_element_order=8&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=ofertas-relampago&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=fcbedc7b-3ff3-331d-892c-15edc82ce777&V=8&c_campaign=ofertas-relampago&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=8&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM779363-1&c_global_position=17&c_element_id=fcbedc7b-3ff3-331d-892c-15edc82ce777&wid=MLM5114301842&sid=splinter
+            - generic [ref=e1274]:
+              - 'img "Antes: 2000 pesos mexicanos" [ref=e1275]':
+                - generic [ref=e1276]: $
+                - generic [ref=e1277]: 2,000
+              - generic [ref=e1278]:
+                - 'img "Ahora: 749 pesos mexicanos" [ref=e1279]':
+                  - generic [ref=e1280]: $
+                  - generic [ref=e1281]: "749"
+                - generic [ref=e1282]: 62% OFF
+              - generic [ref=e1283]:
+                - text: 24 meses de
+                - img "45 pesos mexicanos con 26 centavos" [ref=e1284]:
+                  - generic [ref=e1286]: $
+                  - generic [ref=e1287]: "45"
+                  - generic [ref=e1288]: .
+                  - generic [ref=e1289]: "26"
+            - generic [ref=e1290]:
+              - text: Llega gratis hoy
+              - img "Enviado por FULL" [ref=e1291]
+              - text: por ser tu primera compra
+        - generic [ref=e1292]:
+          - img [ref=e1295]
+          - generic [ref=e1296]:
+            - heading "Ventilador Portátil Recargable Inalámbrico 4.0ah 8-inch 30w Estructura Negro Diámetro 8 Material De Las Aspas Plástico 20.32 Cm 50 Hz/60 Hz Black Metal" [level=3] [ref=e1297]:
+              - link "Ventilador Portátil Recargable Inalámbrico 4.0ah 8-inch 30w Estructura Negro Diámetro 8 Material De Las Aspas Plástico 20.32 Cm 50 Hz/60 Hz Black Metal" [ref=e1298] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/ventilador-portatil-recargable-inalambrico-40ah-8-inch-30w-estructura-negro-diametro-8-material-de-las-aspas-plastico/p/MLM37086895?pdp_filters=deal%3AMLM779363-3001#polycard_client=splinter&c_element_order=9&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=ofertas-relampago&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=93abb77d-7b72-3ec1-a907-b9491c54e7fc&V=9&c_campaign=ofertas-relampago&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=9&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM779363-1&c_global_position=17&c_element_id=93abb77d-7b72-3ec1-a907-b9491c54e7fc&wid=MLM4423742924&sid=splinter
+            - generic [ref=e1299]:
+              - 'img "Antes: 1188 pesos mexicanos" [ref=e1300]':
+                - generic [ref=e1301]: $
+                - generic [ref=e1302]: 1,188
+              - generic [ref=e1303]:
+                - 'img "Ahora: 394 pesos mexicanos" [ref=e1304]':
+                  - generic [ref=e1305]: $
+                  - generic [ref=e1306]: "394"
+                - generic [ref=e1307]: 66% OFF
+            - generic [ref=e1308]:
+              - text: Llega gratis hoy
+              - img "Enviado por FULL" [ref=e1309]
+              - text: por ser tu primera compra
+        - generic [ref=e1310]:
+          - img [ref=e1313]
+          - generic [ref=e1314]:
+            - heading "Jean Paul Gaultier Le Male Elixir Parfum 125ml Para Hombre" [level=3] [ref=e1315]:
+              - link "Jean Paul Gaultier Le Male Elixir Parfum 125ml Para Hombre" [ref=e1316] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/jean-paul-gaultier-le-male-elixir-parfum-125ml-para-hombre/up/MLMU3965982596?pdp_filters=deal%3AMLM779363-3001#polycard_client=splinter&c_element_order=10&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=ofertas-relampago&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=02eea4d8-05c7-334a-9104-d9500aeb59e6&V=10&c_campaign=ofertas-relampago&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=10&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM779363-1&c_global_position=17&c_element_id=02eea4d8-05c7-334a-9104-d9500aeb59e6&wid=MLM5326897168&sid=splinter
+            - generic [ref=e1317]:
+              - 'img "Antes: 2099 pesos mexicanos" [ref=e1318]':
+                - generic [ref=e1319]: $
+                - generic [ref=e1320]: 2,099
+              - generic [ref=e1321]:
+                - 'img "Ahora: 797 pesos mexicanos con 62 centavos" [ref=e1322]':
+                  - generic [ref=e1323]: $
+                  - generic [ref=e1324]: "797"
+                  - generic [ref=e1325]: ","
+                  - generic [ref=e1326]: "62"
+                - generic [ref=e1327]: 62% OFF
+              - generic [ref=e1328]:
+                - text: 24 meses de
+                - img "48 pesos mexicanos con 20 centavos" [ref=e1329]:
+                  - generic [ref=e1331]: $
+                  - generic [ref=e1332]: "48"
+                  - generic [ref=e1333]: .
+                  - generic [ref=e1334]: "20"
+            - generic [ref=e1335]: Envío gratispor ser tu primera compra
+        - generic [ref=e1336]:
+          - img [ref=e1339]
+          - generic [ref=e1340]:
+            - generic [ref=e1341]: MÁS VENDIDO
+            - heading "Power Bank 50000 Mah Batería Portátil Pila 120w Carga Rápida" [level=3] [ref=e1342]:
+              - link "Power Bank 50000 Mah Batería Portátil Pila 120w Carga Rápida" [ref=e1343] [cursor=pointer]:
+                - /url: https://articulo.mercadolibre.com.mx/MLM-4018485542-power-bank-50000-mah-bateria-portatil-pila-120w-carga-rapida-_JM?searchVariation=190250308163#polycard_client=splinter&c_element_order=11&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=ofertas-relampago&type=item&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=0b07f715-0348-38be-95dc-5065228916fc&V=11&c_campaign=ofertas-relampago&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=11&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM779363-1&c_global_position=17&c_element_id=0b07f715-0348-38be-95dc-5065228916fc
+            - generic [ref=e1344]:
+              - 'img "Antes: 348 pesos mexicanos" [ref=e1345]':
+                - generic [ref=e1346]: $
+                - generic [ref=e1347]: "348"
+              - generic [ref=e1348]:
+                - 'img "Ahora: 298 pesos mexicanos" [ref=e1349]':
+                  - generic [ref=e1350]: $
+                  - generic [ref=e1351]: "298"
+                - generic [ref=e1352]: 14% OFF
+            - generic [ref=e1355]:
+              - img [ref=e1356]
+              - text: Cupón 5% OFF
+            - generic [ref=e1357]:
+              - text: Llega gratis hoy
+              - img "Enviado por FULL" [ref=e1358]
+              - text: por ser tu primera compra
+        - generic [ref=e1359]:
+          - img [ref=e1362]
+          - generic [ref=e1363]:
+            - generic [ref=e1364]:
+              - generic [ref=e1365]: OFERTA RELÁMPAGO
+              - generic [ref=e1366]: Oferta relámpago termina el 22 de mayo de 2,026 a las 18 horas 0 minutos
+              - generic [ref=e1367]:
+                - generic [ref=e1368]:
+                  - generic [ref=e1370]: "0"
+                  - generic [ref=e1372]: "0"
+                - generic [ref=e1373]: ":"
+                - generic [ref=e1374]:
+                  - generic [ref=e1376]: "0"
+                  - generic [ref=e1378]: "0"
+                - generic [ref=e1379]: ":"
+                - generic [ref=e1380]:
+                  - generic [ref=e1382]: "0"
+                  - generic [ref=e1384]: "0"
+            - heading "Pack2 Cámara De Seguridad Anberx Exterior Wifi Visión Alarma Blanco" [level=3] [ref=e1385]:
+              - link "Pack2 Cámara De Seguridad Anberx Exterior Wifi Visión Alarma Blanco" [ref=e1386] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/pack2-camara-de-seguridad-anberx-exterior-wifi-vision-alarma/p/MLM63513244?pdp_filters=deal%3AMLM779363-3001#polycard_client=splinter&c_element_order=12&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=ofertas-relampago&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=734259c5-c0b7-3577-a52d-36fd09f9e7d4&V=12&c_campaign=ofertas-relampago&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=12&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM779363-1&c_global_position=17&c_element_id=734259c5-c0b7-3577-a52d-36fd09f9e7d4&wid=MLM4768714596&sid=splinter
+            - generic [ref=e1387]:
+              - 'img "Antes: 1564 pesos mexicanos" [ref=e1388]':
+                - generic [ref=e1389]: $
+                - generic [ref=e1390]: 1,564
+              - generic [ref=e1391]:
+                - 'img "Ahora: 651 pesos mexicanos con 92 centavos" [ref=e1392]':
+                  - generic [ref=e1393]: $
+                  - generic [ref=e1394]: "651"
+                  - generic [ref=e1395]: ","
+                  - generic [ref=e1396]: "92"
+                - generic [ref=e1397]: 58% OFF
+              - generic [ref=e1398]:
+                - text: 24 meses de
+                - img "39 pesos mexicanos con 39 centavos" [ref=e1399]:
+                  - generic [ref=e1401]: $
+                  - generic [ref=e1402]: "39"
+                  - generic [ref=e1403]: .
+                  - generic [ref=e1404]: "39"
+            - generic [ref=e1405]:
+              - text: Llega gratis hoy
+              - img "Enviado por FULL" [ref=e1406]
+              - text: por ser tu primera compra
+        - generic [ref=e1407]:
+          - img [ref=e1410]
+          - generic [ref=e1411]:
+            - generic [ref=e1412]: MÁS VENDIDO
+            - heading "2pz Lámpara Solar Exterior Con Reflectores Led Para Jardín Estructura Negro" [level=3] [ref=e1413]:
+              - link "2pz Lámpara Solar Exterior Con Reflectores Led Para Jardín Estructura Negro" [ref=e1414] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/2pz-lampara-solar-exterior-con-reflectores-led-para-jardin-estructura-negro/p/MLM64181917?pdp_filters=deal%3AMLM779363-3001#polycard_client=splinter&c_element_order=13&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=ofertas-relampago&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=1595cff1-6caa-3d97-8e80-d93a30469cd9&V=13&c_campaign=ofertas-relampago&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=13&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM779363-1&c_global_position=17&c_element_id=1595cff1-6caa-3d97-8e80-d93a30469cd9&wid=MLM2829887471&sid=splinter
+            - generic [ref=e1415]:
+              - 'img "Antes: 699 pesos mexicanos" [ref=e1416]':
+                - generic [ref=e1417]: $
+                - generic [ref=e1418]: "699"
+              - generic [ref=e1419]:
+                - 'img "Ahora: 209 pesos mexicanos" [ref=e1420]':
+                  - generic [ref=e1421]: $
+                  - generic [ref=e1422]: "209"
+                - generic [ref=e1423]: 70% OFF
+            - generic [ref=e1424]:
+              - text: Llega gratis hoy
+              - img "Enviado por FULL" [ref=e1425]
+              - text: por ser tu primera compra
+        - generic [ref=e1426]:
+          - img [ref=e1429]
+          - generic [ref=e1430]:
+            - generic [ref=e1431]: MÁS VENDIDO
+            - heading "Almohada Ortopédica Memory Foam Para Cuello Cervical Blick Blanco" [level=3] [ref=e1432]:
+              - link "Almohada Ortopédica Memory Foam Para Cuello Cervical Blick Blanco" [ref=e1433] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/almohada-ortopedica-memory-foam-para-cuello-cervical-blick/p/MLM45237295?pdp_filters=deal%3AMLM779363-3001#polycard_client=splinter&c_element_order=14&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=ofertas-relampago&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=f067b756-ff51-3aef-b583-9e3dfb91fd99&V=14&c_campaign=ofertas-relampago&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=14&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM779363-1&c_global_position=17&c_element_id=f067b756-ff51-3aef-b583-9e3dfb91fd99&wid=MLM2215663455&sid=splinter
+            - generic [ref=e1434]:
+              - 'img "Antes: 499 pesos mexicanos" [ref=e1435]':
+                - generic [ref=e1436]: $
+                - generic [ref=e1437]: "499"
+              - generic [ref=e1438]:
+                - 'img "Ahora: 269 pesos mexicanos" [ref=e1439]':
+                  - generic [ref=e1440]: $
+                  - generic [ref=e1441]: "269"
+                - generic [ref=e1442]: 46% OFF
+            - generic [ref=e1443]:
+              - text: Llega gratis hoy
+              - img "Enviado por FULL" [ref=e1444]
+              - text: por ser tu primera compra
+        - generic [ref=e1445]:
+          - img [ref=e1448]
+          - generic [ref=e1449]:
+            - generic [ref=e1450]: MÁS VENDIDO
+            - heading "Lámpara Solar Exterior Reflectores Led Jardín Suburbana 2pz Con 2 Cables De 5m Y Control Remoto - Ip67 Impermeable, Panel De Alta Eficiencia, Kit Completo Para Uso En Interior/exterior Negro" [level=3] [ref=e1451]:
+              - link "Lámpara Solar Exterior Reflectores Led Jardín Suburbana 2pz Con 2 Cables De 5m Y Control Remoto - Ip67 Impermeable, Panel De Alta Eficiencia, Kit Completo Para Uso En Interior/exterior Negro" [ref=e1452] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/lampara-solar-exterior-reflectores-led-jardin-suburbana-2pz-con-2-cables-de-5m-y-control-remoto-ip67-impermeable-panel-de-alta-eficiencia-kit-completo-para-uso-en-interiorexterior/p/MLM65259440?pdp_filters=deal%3AMLM779363-3001#polycard_client=splinter&c_element_order=15&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=ofertas-relampago&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=e4c386e4-e540-3342-92bb-9a4afcf1beae&V=15&c_campaign=ofertas-relampago&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=15&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM779363-1&c_global_position=17&c_element_id=e4c386e4-e540-3342-92bb-9a4afcf1beae&wid=MLM5045507308&sid=splinter
+            - generic [ref=e1453]:
+              - 'img "Antes: 600 pesos mexicanos" [ref=e1454]':
+                - generic [ref=e1455]: $
+                - generic [ref=e1456]: "600"
+              - generic [ref=e1457]:
+                - 'img "Ahora: 208 pesos mexicanos" [ref=e1458]':
+                  - generic [ref=e1459]: $
+                  - generic [ref=e1460]: "208"
+                - generic [ref=e1461]: 65% OFF
+            - generic [ref=e1462]:
+              - text: Llega gratis hoy
+              - img "Enviado por FULL" [ref=e1463]
+              - text: por ser tu primera compra
+        - generic [ref=e1464]:
+          - img [ref=e1467]
+          - generic [ref=e1468]:
+            - generic [ref=e1469]: MÁS VENDIDO
+            - heading "Kit Taladro Inalámbrico Impacto Y Atornillador Sin Escobillas Ironhoof Xmmxf195rb Color Rojo" [level=3] [ref=e1470]:
+              - link "Kit Taladro Inalámbrico Impacto Y Atornillador Sin Escobillas Ironhoof Xmmxf195rb Color Rojo" [ref=e1471] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/kit-taladro-inalambrico-impacto-y-atornillador-sin-escobillas-ironhoof-xmmxf195rb-color-rojo/p/MLM64262409?pdp_filters=deal%3AMLM779363-3001#polycard_client=splinter&c_element_order=16&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=ofertas-relampago&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=c1df74cd-3c49-3462-b331-7e32a017a161&V=16&c_campaign=ofertas-relampago&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=16&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM779363-1&c_global_position=17&c_element_id=c1df74cd-3c49-3462-b331-7e32a017a161&wid=MLM2725747547&sid=splinter
+            - generic [ref=e1472]:
+              - 'img "Antes: 1869 pesos mexicanos" [ref=e1473]':
+                - generic [ref=e1474]: $
+                - generic [ref=e1475]: 1,869
+              - generic [ref=e1476]:
+                - 'img "Ahora: 759 pesos mexicanos" [ref=e1477]':
+                  - generic [ref=e1478]: $
+                  - generic [ref=e1479]: "759"
+                - generic [ref=e1480]: 59% OFF
+              - generic [ref=e1481]:
+                - text: 24 meses de
+                - img "45 pesos mexicanos con 87 centavos" [ref=e1482]:
+                  - generic [ref=e1484]: $
+                  - generic [ref=e1485]: "45"
+                  - generic [ref=e1486]: .
+                  - generic [ref=e1487]: "87"
+            - generic [ref=e1488]:
+              - text: Llega gratis hoy
+              - img "Enviado por FULL" [ref=e1489]
+              - text: por ser tu primera compra
+        - generic [ref=e1490]:
+          - img [ref=e1493]
+          - generic [ref=e1494]:
+            - generic [ref=e1495]: MÁS VENDIDO
+            - heading "Lámparas Solares Exteriores De Jardín Led Con Sensor De Movimiento Y Luz Blanca Pack De 2 Negro" [level=3] [ref=e1496]:
+              - link "Lámparas Solares Exteriores De Jardín Led Con Sensor De Movimiento Y Luz Blanca Pack De 2 Negro" [ref=e1497] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/lamparas-solares-exteriores-de-jardin-led-con-sensor-de-movimiento-y-luz-blanca-pack-de-2/p/MLM67447457?pdp_filters=deal%3AMLM779363-3001#polycard_client=splinter&c_element_order=17&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=ofertas-relampago&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=f4d5a196-0cc6-373d-b7b2-d7f55543e266&V=17&c_campaign=ofertas-relampago&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=17&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM779363-1&c_global_position=17&c_element_id=f4d5a196-0cc6-373d-b7b2-d7f55543e266&wid=MLM5162423046&sid=splinter
+            - generic [ref=e1498]:
+              - 'img "Antes: 1088 pesos mexicanos" [ref=e1499]':
+                - generic [ref=e1500]: $
+                - generic [ref=e1501]: 1,088
+              - generic [ref=e1502]:
+                - 'img "Ahora: 472 pesos mexicanos" [ref=e1503]':
+                  - generic [ref=e1504]: $
+                  - generic [ref=e1505]: "472"
+                - generic [ref=e1506]: 56% OFF
+            - generic [ref=e1507]:
+              - text: Llega gratis hoy
+              - img "Enviado por FULL" [ref=e1508]
+              - text: por ser tu primera compra
+        - generic [ref=e1509]:
+          - img [ref=e1512]
+          - generic [ref=e1513]:
+            - generic [ref=e1514]: MÁS VENDIDO
+            - heading "Aiyinsmart Aspiradora Portátil Inalámbrico De Mano Con Filtro Lavable Volumen 500ml 9kpa 2 Filtros Hepa Para Autos Hogar Oficina Negro,con Led, Para El Hogar Y El Pelo De Mascotas Negro/plata" [level=3] [ref=e1515]:
+              - link "Aiyinsmart Aspiradora Portátil Inalámbrico De Mano Con Filtro Lavable Volumen 500ml 9kpa 2 Filtros Hepa Para Autos Hogar Oficina Negro,con Led, Para El Hogar Y El Pelo De Mascotas Negro/plata" [ref=e1516] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/aiyinsmart-aspiradora-portatil-inalambrico-de-mano-con-filtro-lavable-volumen-500ml-9kpa-2-filtros-hepa-para-autos-hogar-oficina-negrocon-led-para-el-hogar-y-el-pelo-de-mascotas/p/MLM44034819?pdp_filters=deal%3AMLM779363-3001#polycard_client=splinter&c_element_order=18&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=ofertas-relampago&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=35508089-f74e-378a-b169-e972a25c9115&V=18&c_campaign=ofertas-relampago&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=18&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM779363-1&c_global_position=17&c_element_id=35508089-f74e-378a-b169-e972a25c9115&wid=MLM4683694470&sid=splinter
+            - generic [ref=e1517]:
+              - 'img "Antes: 500 pesos mexicanos" [ref=e1518]':
+                - generic [ref=e1519]: $
+                - generic [ref=e1520]: "500"
+              - generic [ref=e1521]:
+                - 'img "Ahora: 237 pesos mexicanos" [ref=e1522]':
+                  - generic [ref=e1523]: $
+                  - generic [ref=e1524]: "237"
+                - generic [ref=e1525]: 52% OFF
+            - generic [ref=e1526]:
+              - text: Llega gratis hoy
+              - img "Enviado por FULL" [ref=e1527]
+              - text: por ser tu primera compra
+        - generic [ref=e1528]:
+          - img [ref=e1531]
+          - generic [ref=e1532]:
+            - generic [ref=e1533]: MÁS VENDIDO
+            - heading "7kit Cargador 20w Inalámbric 5000 Mah Auricular Para iPhone" [level=3] [ref=e1534]:
+              - link "7kit Cargador 20w Inalámbric 5000 Mah Auricular Para iPhone" [ref=e1535] [cursor=pointer]:
+                - /url: https://articulo.mercadolibre.com.mx/MLM-2500055493-7kit-cargador-20w-inalambric-5000-mah-auricular-para-iphone-_JM?searchVariation=191730369201#polycard_client=splinter&c_element_order=19&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=ofertas-relampago&type=item&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=5040b46e-77a8-3dc9-a86f-8fd026a2ea6c&V=19&c_campaign=ofertas-relampago&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=19&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM779363-1&c_global_position=17&c_element_id=5040b46e-77a8-3dc9-a86f-8fd026a2ea6c
+            - generic [ref=e1536]:
+              - 'img "Antes: 498 pesos mexicanos" [ref=e1537]':
+                - generic [ref=e1538]: $
+                - generic [ref=e1539]: "498"
+              - generic [ref=e1540]:
+                - 'img "Ahora: 388 pesos mexicanos" [ref=e1541]':
+                  - generic [ref=e1542]: $
+                  - generic [ref=e1543]: "388"
+                - generic [ref=e1544]: 22% OFF
+            - generic [ref=e1547]:
+              - img [ref=e1548]
+              - text: Cupón 10% OFF
+            - generic [ref=e1549]:
+              - text: Llega gratis hoy
+              - img "Enviado por FULL" [ref=e1550]
+              - text: por ser tu primera compra
+        - generic [ref=e1551]:
+          - img [ref=e1554]
+          - generic [ref=e1555]:
+            - generic [ref=e1556]: MÁS VENDIDO
+            - heading "Aspiradora Para Limpiar Alfombras Y Manchas Inyección Succión Tapicería Alfombra 1800ml+800ml 22000pa 850w Limpiadora... Negro/amarillo" [level=3] [ref=e1557]:
+              - link "Aspiradora Para Limpiar Alfombras Y Manchas Inyección Succión Tapicería Alfombra 1800ml+800ml 22000pa 850w Limpiadora... Negro/amarillo" [ref=e1558] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/aspiradora-para-limpiar-alfombras-y-manchas-inyeccion-succion-tapiceria-alfombra-1800ml800ml-22000pa-850w-limpiadora-electrica-para-hogar-o-auto-oficina-5m16m-con-5-cabezales-de-cepillo/p/MLM68342733?pdp_filters=deal%3AMLM779363-3001#polycard_client=splinter&c_element_order=20&deal_print_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&L=ofertas-relampago&type=product&c_tracking_id=e8490730-55f3-11f1-bbad-b990ffd0dd95&c_uid=90e4cd69-e014-33d7-b59b-34443f2703e5&V=20&c_campaign=ofertas-relampago&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=20&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLM779363-1&c_global_position=17&c_element_id=90e4cd69-e014-33d7-b59b-34443f2703e5&wid=MLM5204645212&sid=splinter
+            - generic [ref=e1559]:
+              - 'img "Antes: 2599 pesos mexicanos" [ref=e1560]':
+                - generic [ref=e1561]: $
+                - generic [ref=e1562]: 2,599
+              - generic [ref=e1563]:
+                - 'img "Ahora: 1329 pesos mexicanos" [ref=e1564]':
+                  - generic [ref=e1565]: $
+                  - generic [ref=e1566]: 1,329
+                - generic [ref=e1567]: 48% OFF
+              - generic [ref=e1568]:
+                - text: 6 meses sin intereses de
+                - img "221 pesos mexicanos con 50 centavos" [ref=e1569]:
+                  - generic [ref=e1571]: $
+                  - generic [ref=e1572]: "221"
+                  - generic [ref=e1573]: .
+                  - generic [ref=e1574]: "50"
+            - generic [ref=e1575]:
+              - text: Envío gratis
+              - img "Enviado por FULL" [ref=e1576]
+              - text: por ser tu primera compra
+    - button "Ver términos y condiciones" [ref=e1582]
+    - region "Categorías populares" [ref=e1588]:
+      - generic [ref=e1589]:
+        - heading "Categorías populares" [level=2] [ref=e1591]
+        - list [ref=e1592]:
+          - listitem [ref=e1593]:
+            - button [ref=e1594]:
+              - generic [ref=e1595]: Página 1
+          - listitem [ref=e1596]:
+            - button [ref=e1597]:
+              - generic [ref=e1598]: Página 2
+          - listitem [ref=e1599]:
+            - button [ref=e1600]:
+              - generic [ref=e1601]: Página 3
+      - generic [ref=e1602]:
+        - button "Anterior" [disabled] [ref=e1603]:
+          - img [ref=e1604]
+        - generic [ref=e1607]:
+          - group "1 de 16" [ref=e1608]:
+            - generic [ref=e1609]:
+              - link "Accesorios para Vehículos" [ref=e1610] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/accesorios-para-vehiculos
+                - img [ref=e1612]
+                - paragraph [ref=e1614]: Accesorios para Vehículos
+              - link "Agro" [ref=e1615] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/agro
+                - img [ref=e1617]
+                - paragraph [ref=e1619]: Agro
+          - group "2 de 16" [ref=e1620]:
+            - generic [ref=e1621]:
+              - link "Alimentos y Bebidas" [ref=e1622] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/alimentos-y-bebidas
+                - img [ref=e1624]
+                - paragraph [ref=e1626]: Alimentos y Bebidas
+              - link "Mascotas" [ref=e1627] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/animales-y-mascotas
+                - img [ref=e1629]
+                - paragraph [ref=e1631]: Mascotas
+          - group "3 de 16" [ref=e1632]:
+            - generic [ref=e1633]:
+              - link "Antigüedades y Colecciones" [ref=e1634] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/antiguedades-y-colecciones
+                - img [ref=e1636]
+                - paragraph [ref=e1638]: Antigüedades y Colecciones
+              - link "Arte, Papelería y Mercería" [ref=e1639] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/arte-papeleria-y-merceria
+                - img [ref=e1641]
+                - paragraph [ref=e1643]: Arte, Papelería y Mercería
+          - group "4 de 16" [ref=e1644]:
+            - generic [ref=e1645]:
+              - link "Autos, Motos y Otros" [ref=e1646] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/autos-motos-y-otros
+                - img [ref=e1648]
+                - paragraph [ref=e1650]: Autos, Motos y Otros
+              - link "Bebés" [ref=e1651] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/bebes
+                - img [ref=e1653]
+                - paragraph [ref=e1655]: Bebés
+          - group "5 de 16" [ref=e1656]:
+            - generic [ref=e1657]:
+              - link "Belleza y Cuidado Personal" [ref=e1658] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/belleza-y-cuidado-personal
+                - img [ref=e1660]
+                - paragraph [ref=e1662]: Belleza y Cuidado Personal
+              - link "Cámaras y Accesorios" [ref=e1663] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/camaras-y-accesorios
+                - img [ref=e1665]
+                - paragraph [ref=e1667]: Cámaras y Accesorios
+          - group "6 de 16" [ref=e1668]:
+            - generic [ref=e1669]:
+              - link "Celulares y Telefonía" [ref=e1670] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/celulares-y-telefonia
+                - img [ref=e1672]
+                - paragraph [ref=e1674]: Celulares y Telefonía
+              - link "Computación" [ref=e1675] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/computacion
+                - img [ref=e1677]
+                - paragraph [ref=e1679]: Computación
+          - group "7 de 16" [ref=e1680]:
+            - generic [ref=e1681]:
+              - link "Consolas y Videojuegos" [ref=e1682] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/consolas-y-videojuegos
+                - img [ref=e1684]
+                - paragraph [ref=e1686]: Consolas y Videojuegos
+              - link "Construcción" [ref=e1687] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/construccion
+                - img [ref=e1689]
+                - paragraph [ref=e1691]: Construcción
+          - group [ref=e1692]:
+            - generic [ref=e1693]:
+              - link [ref=e1694] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/deportes-y-fitness
+                - img [ref=e1696]
+                - paragraph [ref=e1698]: Deportes y Fitness
+              - link [ref=e1699] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/electrodomesticos
+                - img [ref=e1701]
+                - paragraph [ref=e1703]: Electrodomésticos
+          - group [ref=e1704]:
+            - generic [ref=e1705]:
+              - link [ref=e1706] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/electronica-audio-y-video
+                - img [ref=e1708]
+                - paragraph [ref=e1710]: Electrónica, Audio y Video
+              - link [ref=e1711] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/herramientas
+                - img [ref=e1713]
+                - paragraph [ref=e1715]: Herramientas
+          - group [ref=e1716]:
+            - generic [ref=e1717]:
+              - link [ref=e1718] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/hogar-muebles-y-jardin
+                - img [ref=e1720]
+                - paragraph [ref=e1722]: Hogar, Muebles y Jardín
+              - link [ref=e1723] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/industrias-y-oficinas
+                - img [ref=e1725]
+                - paragraph [ref=e1727]: Industrias y Oficinas
+          - group [ref=e1728]:
+            - generic [ref=e1729]:
+              - link [ref=e1730] [cursor=pointer]:
+                - /url: http://www.mercadolibre.com.mx/inmuebles/
+                - img [ref=e1732]
+                - paragraph [ref=e1734]: Inmuebles
+              - link [ref=e1735] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/instrumentos-musicales
+                - img [ref=e1737]
+                - paragraph [ref=e1739]: Instrumentos Musicales
+          - group [ref=e1740]:
+            - generic [ref=e1741]:
+              - link [ref=e1742] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/joyas-y-relojes
+                - img [ref=e1744]
+                - paragraph [ref=e1746]: Joyas y Relojes
+              - link [ref=e1747] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/juegos-y-juguetes
+                - img [ref=e1749]
+                - paragraph [ref=e1751]: Juegos y Juguetes
+          - group [ref=e1752]:
+            - generic [ref=e1753]:
+              - link [ref=e1754] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/libros-revistas-y-comics
+                - img [ref=e1756]
+                - paragraph [ref=e1758]: Libros, Revistas y Comics
+              - link [ref=e1759] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/musica-peliculas-y-series
+                - img [ref=e1761]
+                - paragraph [ref=e1763]: Música, Películas y Series
+          - group [ref=e1764]:
+            - generic [ref=e1765]:
+              - link [ref=e1766] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/recuerdos-cotillon-y-fiestas
+                - img [ref=e1768]
+                - paragraph [ref=e1770]: Recuerdos, Cotillón y Fiestas
+              - link [ref=e1771] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/ropa-bolsas-y-calzado
+                - img [ref=e1773]
+                - paragraph [ref=e1775]: Ropa, Bolsas y Calzado
+          - group [ref=e1776]:
+            - generic [ref=e1777]:
+              - link [ref=e1778] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/salud-y-equipamiento-medico
+                - img [ref=e1780]
+                - paragraph [ref=e1782]: Salud y Equipamiento Médico
+              - link [ref=e1783] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/c/servicios
+                - img [ref=e1785]
+                - paragraph [ref=e1787]: Servicios
+          - group [ref=e1788]:
+            - link [ref=e1790] [cursor=pointer]:
+              - /url: https://www.mercadolibre.com.mx/c/otras-categorias
+              - img [ref=e1792]
+              - paragraph [ref=e1794]: Otras Categorías
+        - button "Siguiente" [ref=e1795] [cursor=pointer]:
+          - img [ref=e1796]
+  - generic [ref=e1800]:
+    - heading "Productos más buscados" [level=3] [ref=e1801]
+    - list [ref=e1802]:
+      - listitem [ref=e1803]:
+        - link "aire acondicionado" [ref=e1804] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/aire-acondicionado
+        - text: "-"
+      - listitem [ref=e1805]:
+        - link "airpods" [ref=e1806] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/audifonos-airpod
+        - text: "-"
+      - listitem [ref=e1807]:
+        - link "airpods pro" [ref=e1808] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/airpod-pro
+        - text: "-"
+      - listitem [ref=e1809]:
+        - link "apple tv" [ref=e1810] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/apple-tv
+        - text: "-"
+      - listitem [ref=e1811]:
+        - link "apple watch" [ref=e1812] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/apple-watch
+        - text: "-"
+      - listitem [ref=e1813]:
+        - link "autos usados" [ref=e1814] [cursor=pointer]:
+          - /url: https://autos.mercadolibre.com.mx
+        - text: "-"
+      - listitem [ref=e1815]:
+        - link "bicicleta" [ref=e1816] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/bicicletas
+        - text: "-"
+      - listitem [ref=e1817]:
+        - link "bocina jbl" [ref=e1818] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/bocina-jbl
+        - text: "-"
+      - listitem [ref=e1819]:
+        - link "calculadora cientifica" [ref=e1820] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/calculadora-cientifica
+        - text: "-"
+      - listitem [ref=e1821]:
+        - link "camaras de seguridad" [ref=e1822] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/camaras-de-seguridad
+        - text: "-"
+      - listitem [ref=e1823]:
+        - link "celular samsung" [ref=e1824] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/samsung
+        - text: "-"
+      - listitem [ref=e1825]:
+        - link "chromecast" [ref=e1826] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/chromecast
+        - text: "-"
+      - listitem [ref=e1827]:
+        - link "colchon matrimonial" [ref=e1828] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/colchon-matrimonial
+        - text: "-"
+      - listitem [ref=e1829]:
+        - link "computadora" [ref=e1830] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/computadora
+        - text: "-"
+      - listitem [ref=e1831]:
+        - link "escritorio" [ref=e1832] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/escritorio
+        - text: "-"
+      - listitem [ref=e1833]:
+        - link "estufa" [ref=e1834] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/estufas
+        - text: "-"
+      - listitem [ref=e1835]:
+        - link "freidora de aire" [ref=e1836] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/freidora-de-aire
+        - text: "-"
+      - listitem [ref=e1837]:
+        - link "honor x8" [ref=e1838] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/honor-x8
+        - text: "-"
+      - listitem [ref=e1839]:
+        - link "impresora" [ref=e1840] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/impresora
+        - text: "-"
+      - listitem [ref=e1841]:
+        - link "inmuebles" [ref=e1842] [cursor=pointer]:
+          - /url: https://inmuebles.mercadolibre.com.mx
+        - text: "-"
+      - listitem [ref=e1843]:
+        - link "iphone" [ref=e1844] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/iphone
+        - text: "-"
+      - listitem [ref=e1845]:
+        - link "iphone 8" [ref=e1846] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/iphone-8
+        - text: "-"
+      - listitem [ref=e1847]:
+        - link "iphone 11" [ref=e1848] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/iphone-11
+        - text: "-"
+      - listitem [ref=e1849]:
+        - link "iphone 12" [ref=e1850] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/iphone-12
+        - text: "-"
+      - listitem [ref=e1851]:
+        - link "iphone 12 pro" [ref=e1852] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/iphone-12-pro
+        - text: "-"
+      - listitem [ref=e1853]:
+        - link "iphone 12 pro max" [ref=e1854] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/iphone-14
+        - text: "-"
+      - listitem [ref=e1855]:
+        - link "iphone 13 pro" [ref=e1856] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/iphone-13-pro
+        - text: "-"
+      - listitem [ref=e1857]:
+        - link "iphone 13 pro max" [ref=e1858] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/iphone-13-pro-max
+        - text: "-"
+      - listitem [ref=e1859]:
+        - link "iphone 15" [ref=e1860] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/iphone-15
+        - text: "-"
+      - listitem [ref=e1861]:
+        - link "iphone 16" [ref=e1862] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/iphone-16
+        - text: "-"
+      - listitem [ref=e1863]:
+        - link "iphone 16 plus" [ref=e1864] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/iphone-16-plus
+        - text: "-"
+      - listitem [ref=e1865]:
+        - link "iphone 16 pro" [ref=e1866] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/iphone-16-pro
+        - text: "-"
+      - listitem [ref=e1867]:
+        - link "iphone 16 pro max" [ref=e1868] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/iphone-16-pro-max
+        - text: "-"
+      - listitem [ref=e1869]:
+        - link "laptop" [ref=e1870] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/laptop
+        - text: "-"
+      - listitem [ref=e1871]:
+        - link "lavadora" [ref=e1872] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/lavadora
+        - text: "-"
+      - listitem [ref=e1873]:
+        - link "licuadora ninja" [ref=e1874] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/licuadora-ninja
+        - text: "-"
+      - listitem [ref=e1875]:
+        - link "mini split" [ref=e1876] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/minisplit
+        - text: "-"
+      - listitem [ref=e1877]:
+        - link "motorola" [ref=e1878] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/motorola
+        - text: "-"
+      - listitem [ref=e1879]:
+        - link "motorola g60" [ref=e1880] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/motorola-g60
+        - text: "-"
+      - listitem [ref=e1881]:
+        - link "nintendo" [ref=e1882] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/consolas-videojuegos/_Tienda_nintendo
+        - text: "-"
+      - listitem [ref=e1883]:
+        - link "nintendo switch" [ref=e1884] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/nintendo-switch
+        - text: "-"
+      - listitem [ref=e1885]:
+        - link "oppo" [ref=e1886] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/oppo
+        - text: "-"
+      - listitem [ref=e1887]:
+        - link "oppo reno 7" [ref=e1888] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/oppo-reno-7
+        - text: "-"
+      - listitem [ref=e1889]:
+        - link "pantalla" [ref=e1890] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/pantallas
+        - text: "-"
+      - listitem [ref=e1891]:
+        - link "playstation 5" [ref=e1892] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/playstation-5
+        - text: "-"
+      - listitem [ref=e1893]:
+        - link "refrigerador" [ref=e1894] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/refrigerador
+        - text: "-"
+      - listitem [ref=e1895]:
+        - link "refrigerador lg" [ref=e1896] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/refrigerador-lg
+        - text: "-"
+      - listitem [ref=e1897]:
+        - link "roku" [ref=e1898] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/roku
+        - text: "-"
+      - listitem [ref=e1899]:
+        - link "samsung galaxy" [ref=e1900] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/samsung-galaxy
+        - text: "-"
+      - listitem [ref=e1901]:
+        - link "samsung s21" [ref=e1902] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/samsung-galaxy-s21
+        - text: "-"
+      - listitem [ref=e1903]:
+        - link "smartwatch" [ref=e1904] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/smartwatch
+        - text: "-"
+      - listitem [ref=e1905]:
+        - link "sofa cama" [ref=e1906] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/sofa-cama
+        - text: "-"
+      - listitem [ref=e1907]:
+        - link "tablet" [ref=e1908] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/tablet
+        - text: "-"
+      - listitem [ref=e1909]:
+        - link "ventilador" [ref=e1910] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/ventilador
+        - text: "-"
+      - listitem [ref=e1911]:
+        - link "xbox" [ref=e1912] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/xbox
+        - text: "-"
+      - listitem [ref=e1913]:
+        - link "xbox series x" [ref=e1914] [cursor=pointer]:
+          - /url: https://listado.mercadolibre.com.mx/xbox-series-x
+  - generic [ref=e1917]:
+    - heading "Buscar productos por letra inicial" [level=3] [ref=e1918]
+    - list "Buscar productos por letra inicial" [ref=e1920]:
+      - listitem [ref=e1921]:
+        - link "Buscar productos por letra inicial A" [ref=e1922] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/A/1
+          - text: A
+      - listitem [ref=e1923]: "-"
+      - listitem [ref=e1924]:
+        - link "Buscar productos por letra inicial B" [ref=e1925] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/B/1
+          - text: B
+      - listitem [ref=e1926]: "-"
+      - listitem [ref=e1927]:
+        - link "Buscar productos por letra inicial C" [ref=e1928] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/C/1
+          - text: C
+      - listitem [ref=e1929]: "-"
+      - listitem [ref=e1930]:
+        - link "Buscar productos por letra inicial D" [ref=e1931] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/D/1
+          - text: D
+      - listitem [ref=e1932]: "-"
+      - listitem [ref=e1933]:
+        - link "Buscar productos por letra inicial E" [ref=e1934] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/E/1
+          - text: E
+      - listitem [ref=e1935]: "-"
+      - listitem [ref=e1936]:
+        - link "Buscar productos por letra inicial F" [ref=e1937] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/F/1
+          - text: F
+      - listitem [ref=e1938]: "-"
+      - listitem [ref=e1939]:
+        - link "Buscar productos por letra inicial G" [ref=e1940] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/G/1
+          - text: G
+      - listitem [ref=e1941]: "-"
+      - listitem [ref=e1942]:
+        - link "Buscar productos por letra inicial H" [ref=e1943] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/H/1
+          - text: H
+      - listitem [ref=e1944]: "-"
+      - listitem [ref=e1945]:
+        - link "Buscar productos por letra inicial I" [ref=e1946] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/I/1
+          - text: I
+      - listitem [ref=e1947]: "-"
+      - listitem [ref=e1948]:
+        - link "Buscar productos por letra inicial J" [ref=e1949] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/J/1
+          - text: J
+      - listitem [ref=e1950]: "-"
+      - listitem [ref=e1951]:
+        - link "Buscar productos por letra inicial K" [ref=e1952] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/K/1
+          - text: K
+      - listitem [ref=e1953]: "-"
+      - listitem [ref=e1954]:
+        - link "Buscar productos por letra inicial L" [ref=e1955] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/L/1
+          - text: L
+      - listitem [ref=e1956]: "-"
+      - listitem [ref=e1957]:
+        - link "Buscar productos por letra inicial M" [ref=e1958] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/M/1
+          - text: M
+      - listitem [ref=e1959]: "-"
+      - listitem [ref=e1960]:
+        - link "Buscar productos por letra inicial N" [ref=e1961] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/N/1
+          - text: "N"
+      - listitem [ref=e1962]: "-"
+      - listitem [ref=e1963]:
+        - link "Buscar productos por letra inicial O" [ref=e1964] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/O/1
+          - text: O
+      - listitem [ref=e1965]: "-"
+      - listitem [ref=e1966]:
+        - link "Buscar productos por letra inicial P" [ref=e1967] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/P/1
+          - text: P
+      - listitem [ref=e1968]: "-"
+      - listitem [ref=e1969]:
+        - link "Buscar productos por letra inicial Q" [ref=e1970] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/Q/1
+          - text: Q
+      - listitem [ref=e1971]: "-"
+      - listitem [ref=e1972]:
+        - link "Buscar productos por letra inicial R" [ref=e1973] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/R/1
+          - text: R
+      - listitem [ref=e1974]: "-"
+      - listitem [ref=e1975]:
+        - link "Buscar productos por letra inicial S" [ref=e1976] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/S/1
+          - text: S
+      - listitem [ref=e1977]: "-"
+      - listitem [ref=e1978]:
+        - link "Buscar productos por letra inicial T" [ref=e1979] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/T/1
+          - text: T
+      - listitem [ref=e1980]: "-"
+      - listitem [ref=e1981]:
+        - link "Buscar productos por letra inicial U" [ref=e1982] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/U/1
+          - text: U
+      - listitem [ref=e1983]: "-"
+      - listitem [ref=e1984]:
+        - link "Buscar productos por letra inicial V" [ref=e1985] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/V/1
+          - text: V
+      - listitem [ref=e1986]: "-"
+      - listitem [ref=e1987]:
+        - link "Buscar productos por letra inicial W" [ref=e1988] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/W/1
+          - text: W
+      - listitem [ref=e1989]: "-"
+      - listitem [ref=e1990]:
+        - link "Buscar productos por letra inicial X" [ref=e1991] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/X/1
+          - text: X
+      - listitem [ref=e1992]: "-"
+      - listitem [ref=e1993]:
+        - link "Buscar productos por letra inicial Y" [ref=e1994] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/Y/1
+          - text: "Y"
+      - listitem [ref=e1995]: "-"
+      - listitem [ref=e1996]:
+        - link "Buscar productos por letra inicial Z" [ref=e1997] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/glossary/Z/1
+          - text: Z
+  - generic:
+    - heading "Más información " [level=2]:
+      - button "Más información " [ref=e1998] [cursor=pointer]:
+        - text: Más información
+        - generic [ref=e1999]: 
+  - contentinfo [ref=e2000]:
+    - generic [ref=e2002]:
+      - generic [ref=e2003]:
+        - generic [ref=e2004]: Copyright © 1999-2026 El presente canal de instrucción o ambiente, es operado por DeRemate.Com de México, S. de R.L. de C.V. identificada bajo la marca comercial "Mercado Libre®".
+        - navigation [ref=e2005]:
+          - list [ref=e2006]:
+            - listitem [ref=e2007]:
+              - link "Trabaja con nosotros" [ref=e2008] [cursor=pointer]:
+                - /url: https://careers-meli.mercadolibre.com/?utm_campaign=site-mlm&utm_source=mercadolibre&utm_medium=mercadolibre
+            - listitem [ref=e2009]:
+              - link "Términos y condiciones" [ref=e2010] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/ayuda/terminos-y-condiciones-uso-del-sitio_2090
+            - listitem [ref=e2011]:
+              - link "Promociones" [ref=e2012] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/l/promociones-sitemerch
+            - listitem [ref=e2013]:
+              - link "Cómo cuidamos tu privacidad" [ref=e2014] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/privacidad
+            - listitem [ref=e2015]:
+              - link "Accesibilidad" [ref=e2016] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/accesibilidad
+            - listitem [ref=e2017]:
+              - link "Ayuda" [ref=e2018] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/ayuda
+            - listitem [ref=e2019]:
+              - link "Hot Sale" [ref=e2020] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/hot-sale
+            - listitem [ref=e2021]:
+              - link "Programa de Afiliados" [ref=e2022] [cursor=pointer]:
+                - /url: https://www.mercadolibre.com.mx/l/afiliados
+      - paragraph [ref=e2023]: Blvd. Miguel de Cervantes Saavedra 161, Pisos 14 y 15, Granada, Miguel Hidalgo, 11520 Ciudad de México, CDMX, México
+    - link "Mercado Libre" [ref=e2024] [cursor=pointer]:
+      - /url: https://hp.mercadolibre.com/?p=ML&s=MLM&d=desktop
+  - region [ref=e2025]:
+    - generic [ref=e2026]:
+      - paragraph [ref=e2028]:
+        - text: Usamos cookies para mejorar tu experiencia en Mercado Libre. Consultar más en nuestro
+        - link "Centro de Privacidad." [ref=e2029] [cursor=pointer]:
+          - /url: https://www.mercadolibre.com.mx/privacidad#tech-and-cookies
+      - generic [ref=e2030]:
+        - button "Aceptar cookies" [ref=e2031] [cursor=pointer]
+        - button "Configurar cookies" [ref=e2032] [cursor=pointer]

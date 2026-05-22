@@ -1,0 +1,4 @@
+[     898ms] [WARNING] A preload for 'https://www.googletagmanager.com/gtm.js?id=GTM-9CC4' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ https://www.mercadolibre.com.mx/:132
+[    3182ms] [WARNING] [Meta Pixel] - Duplicate Pixel ID: 351742151669639. @ https://connect.facebook.net/en_US/fbevents.js:181
+[    9875ms] [WARNING] A preload for 'https://www.googletagmanager.com/gtm.js?id=GTM-9CC4' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ https://www.mercadolibre.com.mx/:132
+[   10187ms] [WARNING] [Meta Pixel] - Duplicate Pixel ID: 351742151669639. @ https://connect.facebook.net/en_US/fbevents.js:181
