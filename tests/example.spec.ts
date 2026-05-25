@@ -98,6 +98,4 @@ test.describe("playwright context", () => {
     console.log(await page.url());
     await browser.close();
   });
-
-  });
 });
